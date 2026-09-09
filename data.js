@@ -1273,21 +1273,21 @@ const albumHistory = [
   },
   {
     date: "2026-08-08",
-    person: null,
+    person: "Sean",
     artist: "Van Halen",
     album: "Van Halen I",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/0/0d/Van_Halen_album.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
   },
   {
     date: "2026-08-15",
-    person: null,
+    person: "Casey",
     artist: "The Replacements",
     album: "All Shook Down",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/8/8c/The_Replacements_-_All_Shook_Down_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
   },
   {
     date: "2026-08-22",
@@ -1310,7 +1310,7 @@ So, Casey got us thinking about the ’90s.
 Tonight, we’re finally giving the decade its proper country treatment.
 
 Hope yall enjoy Sammy Kershaw — Politics, Religion and Her. (Also a great song on the album)`,
-    coverUrl: "",
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/a/af/Politics%2CReligionandHer.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
   },
   {
     date: "2026-08-29",
@@ -1327,7 +1327,7 @@ RIP Dolly.  Thanks for living a life that made a positive impact on this world.
 (This is a compilation of their music and runs over 2 hours, so feel free to skip around and enjoy the ones that you prefer.  They are all pretty damn enjoyable.)
 
 (Fun side note: SAC alum, Ry Cooder, is also interviewed in the Linda Ronstadt documentary.  It is worth checking out.)`,
-    coverUrl: "",
+    coverUrl: "https://www.dollydiscography.com/uploads/4/5/9/1/4591011/complete-trio-fotor_orig.jpg",
   },
   {
     date: "2026-09-05",
