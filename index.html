@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Saturday Album Club</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Outfit:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="hero">
+        <p class="eyebrow">Every Saturday · 5:30 PM ET</p>
+        <h1>Saturday Album Crew</h1>
+        <p class="lede">Five buddies. Full albums. Great Tunes.</p>
+      </header>
+
+      <section class="card up-next" aria-labelledby="up-next-heading">
+        <p class="label" id="up-next-heading">Up this Saturday</p>
+        <p class="picker-name" id="current-picker">—</p>
+        <p class="picker-note">chooses the album</p>
+      </section>
+
+      <section class="card countdown" aria-labelledby="countdown-heading">
+        <p class="label" id="countdown-heading">Countdown to the next listen</p>
+        <p class="countdown-target" id="countdown-target">Saturday, 5:30 PM Eastern</p>
+        <div class="ticker" id="ticker" role="timer" aria-live="polite">
+          <div class="unit">
+            <span class="value" id="days">00</span>
+            <span class="unit-label">days</span>
+          </div>
+          <div class="unit">
+            <span class="value" id="hours">00</span>
+            <span class="unit-label">hours</span>
+          </div>
+          <div class="unit">
+            <span class="value" id="minutes">00</span>
+            <span class="unit-label">mins</span>
+          </div>
+          <div class="unit">
+            <span class="value" id="seconds">00</span>
+            <span class="unit-label">secs</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="card rotation" aria-labelledby="rotation-heading">
+        <p class="label" id="rotation-heading">Rotation order</p>
+        <ol class="rotation-list" id="rotation-list"></ol>
+        <p class="hint">The picker rolls to the next person every Saturday at 6:00 PM ET.</p>
+      </section>
+
+      <section class="card history" id="history">
+        <h2>Album History</h2>
+        <div id="history-list"></div>
+      </section>
+    </main>
+
+    <script src="data.js"></script>
+    <script src="script.js?v=4"></script>
+  </body>
+</html>
