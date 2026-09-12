@@ -598,381 +598,1161 @@ const albumHistory = [
   },
   {
     date: "2025-03-01",
-    person: "Anne Mar",
+    person: "Sean",
     artist: "Turnpike Troubadours",
     album: "Goodbye Normal Street",
-    notes: "guest curator",
-    writeup: "",
-    coverUrl: "",
+    notes: "guest curator: Anne Mar",
+    writeup: `Here is my pick for the night, I hope I don't disappoint! I first
+learned of this band around 2013 from a guy that I worked with. I
+immediately loved it with the second song standing out early on. A few
+years later Sean and I had planned to go see them live when the poor
+lead singer had some issues that made them cancel the tour. The band
+kind of fell apart and thought we had missed our chance. The singer
+finally got his act together and recently put out a new album that was
+one of their all time best. Fast forward to last fall and we got to
+finally see them! I knew most of their music but the entire crowd knew
+every word and sang it out! This is some fun Sat night music so I hope
+you enjoy the listen! It's the Turnpike Troubadours : Goodbye Normal
+Street.`,
+    coverUrl: "https://t2.genius.com/unsafe/600x600/https%3A%2F%2Fimages.genius.com%2F9c417af9ded05c06c3417b4ffdd34b88.1000x1000x1.jpg",
   },
   {
     date: "2025-03-08",
-    person: null,
+    person: "Casey",
     artist: "Eric Clapton",
     album: "Slowhand",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Tonight's album is a prime example of why I love the Saturday
+at 6:00 concept dating back to when I used to listen to the weekly
+segment on That Station. Despite being familiar with Eric Clapton's
+catalog and reputation, I'd never really listened to an album outside of
+the Unplugged record. In this case, I knew his "Slowhand" nickname, but
+I'd never listened to this studio recording until one Saturday night 4-5
+years ago. If you are like me then you will know the first three songs
+by heart and then the fun will really begin. It is pretty incredible
+that he opens this with three big time radio hits (sky point to J.J.
+Cale for Cocaine) and they have kinda overshadowed six other great songs
+all these years. There have been numerous re-releases of this, but the
+original version is 9 songs long and ends with "Peaches and Diesel."
+This one stays in my rotation throughout the year, and I hope you enjoy
+it too.`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e7/EricClapton-Slowhand.jpg/250px-EricClapton-Slowhand.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-03-15",
-    person: null,
+    person: "Jeremy",
     artist: "Acoustic Syndicate",
     album: "Live From The Neighborhood",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `A little twist on tonight's album, only because my
+recommendation is based on the way I was exposed to it...through passing
+around burnt cd's. This is a live album that took me years to realize
+there was a second half to given the lack of internet at the time and
+the regional popularity. Sooo I'm only recommending the first 11 songs
+unless you're inclined to continue.
+
+I've probably listened to it 100 times since college because it starts
+hot and goes that way from start to finish. It popped back in my head
+this week when Casey and I visited the evening muse. My first visit ever
+to a small venue was to see this band at Cats Cradle in chapel hill.
+Opened my eyes to a new world of music and places to watch it.
+
+My college roommate from western Nc loved these guys and dragged me
+along. Instant fan and for me the start to finding progressive
+bluegrass...with a saxophone for extra measure. Hope you enjoy some
+Acoustic Syndicate "Live from the neighborhood"`,
+    coverUrl: "https://m.media-amazon.com/images/I/61Qudn2UzXL._UX358_FMwebp_QL85_.jpg",
   },
   {
     date: "2025-03-22",
-    person: null,
+    person: "Brian",
     artist: "The Traveling Wilburys",
     album: "Vol. 1",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `I first discovered this band as a child, one late afternoon
+when I was flipping through MTV, which, back then, actually played music
+videos. There it was, this strange and wonderful mix of iconic artists
+in a single video, and I couldn\\'t help but feel that something magical
+was happening. The video was for \\"Handle with Care,\\" and there was
+something about that catchy tune, those harmonies, and the unmistakable
+voices of legends like Bob Dylan, Tom Petty, George Harrison, Roy
+Orbison, and Jeff Lynne that made me stop and listen.
+
+As part of our Saturday Album crew, we've already enjoyed the sounds of
+Tom Petty, The Beatles, and even a cover of \\*Blood on the Tracks\\* by
+Old Crow Medicine Show, so it felt only natural to dive into the
+collective genius of the Traveling Wilburys. Listening to this album
+now, it feels like a perfect fusion of the voices and styles we\\'ve come
+to love, with a playful, effortless energy that only a supergroup like
+this could create. It's a timeless collection of music, full of heart,
+humor, and an undeniable charm that continues to resonate with us today.
+
+Can you tell that my summary was created using Chat GPT?
+
+Gents, enjoy this treat, The Traveling Wilbury's Volume 1`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/3/37/TravWilb1Cover.jpg/250px-TravWilb1Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-03-29",
-    person: null,
+    person: "Bagley",
     artist: "Neil Young",
     album: "On the Beach",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Happy Saturday fellas! It's my first day of 16 unemployed days
+and it could not get any better right now. Not too shabby timing on the
+weather either.
+
+Tonight's artist is one of my all time favs. One of my musical heroes
+really. Obviously I love his music but also admire how he has
+successfully gone back and forth between the folky stuff and then the
+harder rocking stuff.
+
+Tonight's album is from the mid 70s era when he did a few harder rocking
+albums, and this one is my personal fav. It's got a couple tunes that
+panic has covered over the years and it's an overall badass album.
+
+Thought I'd send this over for those folks who may want to get their
+listen in before the evening of basketball. Hope y'all enjoy Neil
+Young's 1974 album On the Beach.`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Neil_Young_-_On_the_Beach.png/250px-Neil_Young_-_On_the_Beach.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-04-05",
-    person: null,
+    person: "Sean",
     artist: "Black Crowes",
     album: "The Southern Harmony and Musical Companion",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Happy Saturday everyone! Time to grab a cold one, hopefully
+outside, get your speakers and get ready to turn it up. Today's album is
+a classic and a rocking good time!
+
+This may be the third or fourth band we have listened to that hails from
+Athens, GA. (There must be something in the water down there) Choosing
+an album for this group was not easy. While not my favorite this
+selection is what established these guys as true rock and roll stars and
+pretty much kicks ass from start to finish. No sophomore slump with this
+one!
+
+Seeing them live at an absolutely slammed Neighborhood Theater still
+ranks in my all time top 5 shows and may go down as #1. Imagine a
+bombastic ear splitting level 10 performance of 'No Speak No Slave'
+(track 8) where I thought the roof was literally going to come off the
+place.
+
+With that I hope you enjoy this classic from 1992, it's The Black Crowes
+: The Southern Harmony and Music Companion. Enjoy!!`,
+    coverUrl: "https://theblackcrowes.com/wp-content/uploads/2024/01/TBC_SH_BOX_3000x3000-copy-2048x2048.jpg",
   },
   {
     date: "2025-04-12",
-    person: null,
+    person: "Casey",
     artist: "Tedeschi Trucks Band",
     album: "I Am The Moon: IV. Farewell",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Five years ago was a pretty miserable time. People were dying,
+Trump was lying, and we were all stuck at home. One positive that was
+taking place though was the concept for the project involving tonight's
+album. If you ever have 2.5 hours to kill, put on the entire "I Am The
+Moon" record by Tedeschi Trucks Band. A friend of mine named Sean
+drunkenly texted me after doing this and correctly called it a true
+masterpiece that would be more and more revered as time goes by. I would
+agree.
+
+I know we are scattered and I hope everyone is enjoying wherever they
+are and the greatest sporting event of the year. For this weekend's
+purposes, we are going to go with the final installment of this series:
+I Am The Moon: IV. Farewell which is probably my favorite piece. While
+this includes what will be a lasting hit in "Soul Sweet Song," I like
+the finale the best. "Another Day" is just about the perfect combo of
+Susan's voice and Derek's guitar, and it is not only the sendoff from
+this segment but also the entire project. I hope you enjoy whenever you
+can get around to listening; I knew that it would be good any time of
+day or part of the week.`,
+    coverUrl: "https://f4.bcbits.com/img/a1299223306_2.jpg",
   },
   {
     date: "2025-04-19",
-    person: null,
+    person: "Jeremy",
     artist: "Jimmy Buffett",
     album: "Living and Dying in 3/4 Time",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Tonight's listen is one that can be enjoyed by the whole
+family...and by that I mean sister in laws and parent in laws because
+we're all down at the beach. And the beach is primarily what this artist
+is associated with.
+
+While everyone knows the beach loving lifestyle of Mr Jimmy Buffet, less
+folks spend time in some of the original albums that towed closer to the
+country line, some in sound but a lot by the story telling nature of the
+songs. A lot of songs on this album tell of life on the road or even
+back then the struggle with big music labels. My fav on the album and
+high over all is West Nashville Grand Ballroom Gown.
+
+I always like to add a fun fact for you guys and tonight's is tied to
+the song "ballad of spider John" which is a cover of a song by Willis
+Alan Ramsey...while you probably don't know him you probably know
+another song of his that was covered called Geraldine and The Honeybee
+by WSMFP (uber cobra album).
+
+Anyways, enough of the chit chat...hope you guys enjoy Jimmy Buffets
+"Living and Dying in 3/4 time"...also feel free to skip Brahma Fear`,
+    coverUrl: "https://m.media-amazon.com/images/I/91ueR5-u+VL._SX425_.jpg",
   },
   {
     date: "2025-04-26",
-    person: null,
+    person: "Brian",
     artist: "James Taylor",
     album: "Greatest Hits",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `This American Treasure was the first compact disc that I
+purchased for myself when I got my first disc-man circa 1993. It was a
+two-disc Live album that I picked up because this was my favorite
+musician at that time. I picked it up at The Record Exchange at
+Cotswold- where I soon after purchased my first WSP cd (Space Wrangler).
+
+The opening song on this particular album was also the song that Ali and
+I chose for our first dance at our wedding. Casey can confirm that it
+has to have been the shittiest version of that song ever performed by a
+human being. God, that cheesy wedding band absolutely butchered it.
+
+Anyways, I hope you will sing along to some timeless classics from a
+true legend, Mr. James Taylor.`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/James_Taylor_Greatest_Hits.jpg/250px-James_Taylor_Greatest_Hits.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-05-03",
-    person: null,
+    person: "Bagley",
     artist: "Galactic",
     album: "Ruckus",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Evening fellas! And happy derby day. Get those mint juleps
+whooped up!
+
+Now while I truly love Jimmy Buffett and James Taylor, I think it's time
+to pick up the pace a bit this week. I doubt Jeremy's in laws would
+approve of this pick.
+
+2003 was a big year for me mainly because it was the year I started
+dating Leigh. And one thing we bonded over immediately was music.
+Notable albums that came out that year that we wore the fuck out hanging
+out drinking and smoking until 3am were Hittin' the note by ABB, Panic's
+Ball, and this album. All three hold a special place in my heart.
+
+This is this band's fourth album but the last one with their original
+singer who had to leave the band due to health reasons. It is produced
+by a guy with an electronic/hip hop background so the album decidedly
+has that feel. And it absolutely jams.
+
+Hopefully it fits the mood for those getting ready for a concert or
+gearing up for those horses tearing down the backstretch.
+
+Get ready to shake your ass and groove to Galactic's Ruckus.`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/5/55/Galactic-Ruckus.jpg/250px-Galactic-Ruckus.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-05-10",
-    person: null,
+    person: "Sean",
     artist: "Led Zeppelin",
     album: "Led Zeppelin IV",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Happy Saturday everyone! Let's get right to it. How this band
+has escaped Saturday this long is shocking.
+
+Featuring 4 members who are all on the Mount Rushmore in their
+respective roles. You have quite possibly the hardest hitting bad ass
+drummer of all time. A quiet and sneaky genius on bass who contributes
+as a multi instrumentalist adding mandolin, guitar and keys on every
+album. An iconic guitar player (both rhythm and lead parts) who has
+written some of the most memorable riffs in rock history. And a front
+man that all who followed have, in some fashion, modeled themselves
+after. It's John, John Paul, Jimmy and Robert and of course we are
+talking about Led Zeppelin.
+
+Now, while picking the band was easy, the album has been an absolute
+challenge. The first 6 albums are all worthy. It's mind boggling how
+good each of them are. I've tossed around each one but finally settled
+on my first love. I got this album in 6th grade and liked it so much I
+drew each of the members "symbols" on my backpack. (I was such a cool
+kid) This album is a true classic and captures them in all there glory;
+blues rock (tracks 1,2), folk (track 3,7), funk (6) and 2 epic rock
+classics (4 and the monster closer 8). Track 4 is played out as anything
+in classic rock but listen to it like it's your first time and enjoy it
+for what it is.
+
+Gentlemen, it's time for Led Zeppelin IV. As always, grab a cold one and
+turn it up!`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Zeppelin_IV.jpg/250px-Zeppelin_IV.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-05-17",
-    person: null,
+    person: "Casey",
     artist: "The Heavy Heavy",
     album: "One of a Kind",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `4:00 listen down here. God bless, Jeremy.
+
+Despite having a couple live listen selections under my belt, this week
+presented a new challenge. Among the considerations were:
+
+We have two extra listeners.
+
+This album will serve as a stage warmer for a live Panic show.
+
+But the biggest X factor of the whole situation is what condition I'd
+find the group in upon my arrival in Charleston. Things were quite shaky
+in September '23 when I met the group in Wilmington.
+
+For this reason, I had three albums ready depending on what I found:
+ready to party, near death, and somewhere in between. This afternoon's
+selection is the ideal scenario (aside from Haarb) and I'm thinking it
+is likely an introduction to a new band.
+
+On our drive to Augusta from Fripp on a dark Sunday morning last month,
+this band appeared in my algorithm. Lindsey and I were amazed that every
+song that came on was really damn good. So the next day, I checked out
+this album by The Heavy Heavy, and the initial impression held up. This
+album sounds like so many different bands and features some badass
+guitar. I honestly think it ranges from My Morning Jacket to Fleetwood
+Mac. Let's get this party started with "One of a Kind" by The Heavy
+Heavy.`,
+    coverUrl: "https://f4.bcbits.com/img/a4013017682_2.jpg",
   },
   {
     date: "2025-05-24",
-    person: null,
+    person: "Jeremy",
     artist: "Credence Clearwater Revival",
     album: "Cosmo’s Factory",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Alright fellas...what tonights band was able to pack into their
+four years of existence may be greater than any band ever in that same
+amount of time (some have likened them to the same kinda of run as Fire
+and Ice bbq). An unbelievable amount of top hits with three albums
+released in 1969 alone and tonight's released in 1970.
+
+Now, this band might sound like they grew up knee-deep in the
+Mississippi mud, but they were actually just four dudes from El Cerrito,
+California. These swamp rock pioneers never lived anywhere near a swamp.
+But John Fogerty's gritty vocals and the band's tight, rootsy groove
+made it all feel real enough to make you sweat like Brian carrying Haarb
+out of a tennis center.
+
+This album is only about half an hour long, but it packs more Americana
+into 30 minutes than most bands manage in a decade. It's got folk,
+blues, rockabilly, swamp rock, and protest all wrapped up with Fogerty's
+raspy voice and that unmistakable CCR groove.
+
+So crack a beer, cue the imaginary washboard, picture Brian eating that
+crawfish pie tonight and let's hang for a half hour in "Cosmo's Factory"`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/4/42/Creedence_Clearwater_Revival_-_Cosmo%27s_Factory.jpg/250px-Creedence_Clearwater_Revival_-_Cosmo%27s_Factory.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-05-31",
-    person: null,
+    person: "Brian",
     artist: "Albert King",
     album: "I’ll Play the Blues For You",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `I have been all over the place the last few days with tonight's
+album selection. I wanted to tie something in with Anna's graduation
+being yesterday, and looked into newer artists that she likes as well
+some of the top albums from the year I graduated high school. While some
+of them are decent, none of them hit the vibe I am feeling for this
+evening's listen. Maybe I will get to them in the future, but I instead
+punted to this album which I first listened to at some point while in
+college. It has been on my list for over a year, but was never in the
+right mood for it.
+
+The first song is my all-time favorite blues song, and the rest of the
+album has plenty of riffs to keep your head bobbing and eyes squinted up
+while you prepare dinner or just listen to it with golf on in the
+background. Maybe desiring some blues this evening was my subliminal
+being telling me I am kind of sad about Anna heading off soon, even if I
+am not outwardly feeling it. Who knows? Regardless, enjoy this dirty
+little album... "I'll Play the Blues for You" by Albert King.`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/f/f9/IllPlayTheBluesForYou.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
   },
   {
     date: "2025-06-07",
-    person: null,
+    person: "Bagley",
     artist: "Lynyrd Skynyrd",
     album: "Second Helping",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Happy Saturday fellas! Tonight's band was my brother's favorite
+band in high school. And since he is about eight years older than me,
+this meant I got a very early introduction to these boys. And a lifelong
+love of them has ensued. Unfortunately, their well known 1977 plane
+crash put an end to the "real" band. I think their genius is maybe a bit
+lost since they are known for a couple HUGE songs and for being
+associated with confederate flag imagery. Nevertheless, their catalog
+speaks for itself in my opinion. Of the five studio albums they made, it
+was tough to choose the right album but I ended up choosing the one that
+I felt best represented their body of work. This album starts with
+arguably the most famous southern rock song of all time and then goes
+into a largely forgettable tune. But after that the rest of the album is
+quite solid. Go on ahead and get you a little Second Helping from Lynyrd
+Skynyrd.`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c5/SecondHelpingLynyrdSkynyrd.jpg/250px-SecondHelpingLynyrdSkynyrd.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-06-14",
-    person: null,
+    person: "Sean",
     artist: "Phish",
     album: "Farmhouse",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Happy Saturday everyone! Looking back at the recent picks I see
+everyone has been bringing A+ material! Hopefully the trend will
+continue this week.
+
+My pick was easy once I realized I would be spending Saturday afternoon
+with a bunch of old college friends (minus Bagley). This band was a
+consistent listen during many late night hang outs, road trips and
+various other shenanigans.
+
+I know this band can be polarizing so I wanted to pick something
+straight forward and digestible if you aren't familiar with them (not an
+easy task) and under the hour time limit (an even harder task). This
+album comes from the end of their "1.0" period and is filled with upbeat
+pop tunes while still pulling in some of the quirky aspects that made
+them the most popular jam band of our era (sorry Panic fans).
+
+With that, I hope you enjoy Farmhouse from Phish!`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Farmhouse_%28Phish_album%29_coverart.jpg/250px-Farmhouse_%28Phish_album%29_coverart.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-06-21",
-    person: null,
+    person: "Casey",
     artist: "Jerry Jeff Walker",
     album: "Viva Terlingua",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Hiiiiiiiii, Buckeroos. Sat album time again.
+
+Summer is officially here, and tonight's featured artist/selection is
+perfect for kicking back and having a good time. I'd imagine we have all
+listened to this guy for years. With that being said, I was stunned when
+this record appeared on one of my friend's list of favorites. I don't
+know anyone that knows more artists and their catalogs so for this
+gentleman to appear on his pantheon of great albums was quite a
+statement. And he's right; it is absolutely fantastic.
+
+I can't say for certain, but I'll be shocked if you all aren't singing
+the chorus of the first song by the 35 second mark. Without further ado,
+I give you "Viva Terlingua" by Jerry Jeff Walker.`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/JerryJeffWalkerVivaTerlingua.jpg/250px-JerryJeffWalkerVivaTerlingua.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-06-28",
-    person: null,
+    person: "Jeremy",
     artist: "The Undisputed Truth",
     album: "The Undisputed Truth",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `This week's pick comes after change due to Casey's pick last
+week and I hated to double up the genre. Last week I was cooking and
+told Alexa to play some cooking music and she threw on a Motown channel
+(including some "meters" jams, shout out bagley). I started going
+through some classics at work and was further convinced when Motown was
+playing while I got my oil changed.
+
+But I also wanted something I figured none of us have really heard. I
+love some of the different stuff we throw on from time to time. So
+tonight's choice comes from a weird, groovy corner of the Motown
+universe --- a place most people never knew existed. The Undisputed
+Truth were a psychedelic soul group formed by Motown producer Norman
+Whitfield, who was already known for his work with The Temptations.
+Think of this album as Motown's experiment: same soul roots, but warped
+through a fuzz pedal, political edge, and a lot of incense smoke.
+
+You'll recognize "Smiling Faces Sometimes" --- the hit single that's
+haunting and paranoid, like a soul version of a '70s conspiracy film.
+But there's more going on here: a cover of Aquarius (thanks anchorman),
+a 10 min version of ball oc confusion (I had to skip after a whole),
+heard it through the grapevine as well.
+
+Fun fact: the band's version of "Like a Rolling Stone" (yes, that Dylan
+song) is one of the boldest and strangest covers Motown ever released
+--- and it somehow works.
+
+I hadn't heard any of the first four songs and loved them as classic
+Motown...the trippy shit is in the middle and closes with those covers.
+Hope you guys enjoy something that's maybe a little different.`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/The_Undisputed_Truth_%281971%29.jpeg/250px-The_Undisputed_Truth_%281971%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-07-05",
-    person: null,
+    person: "Brian",
     artist: "Tower of Power",
     album: "Tower of Power",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Tonight, I will be attending my first ever Charlotte FC game.
+As someone who could give two fucks about the outcome of an MLS game, I
+am most excited about taking in the environment and watching these fans.
+
+When I think of soccer fans, I think of vuvuzelas, of which I hope there
+are plenty this evening. So, for tonight's album, we are going to get
+down to some horns!
+
+My introduction to this band:
+
+I had just graduated from college earlier in the day and was emotionally
+driving home to Charlotte when an album came on a local radio station
+titled Fillmore: The Last Days. This band was on the compilation album
+of artists that had routinely played in Bill Graham's venue over the
+years and included some pretty big names that got their start in the Bay
+area.
+
+I have always been a fan of bands that had horns in their ensemble and
+so these dudes stuck out for me. Really enjoyed the song or two they had
+on the album.
+
+A few years later, one of their former members got caught up in the
+whole Barry Bonds steroid scandal, as he had left the band and founded
+BALCO, the company that was supplying all of the MLB dudes that were
+jacking dingers left and right.
+
+They bring some old school funk in addition to a little Ocean Drive shag
+vibe to a few of their tunes.
+
+Anyways, enjoy this random album by this crew of dudes that are still
+getting after it today, nearly 60 years after their founding.
+
+Here is their self-titled album from 1973- Tower of Power.`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/3/3a/Toptop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
   },
   {
     date: "2025-07-12",
-    person: null,
+    person: "Bagley",
     artist: "Robert Earl Keen",
     album: "Best",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Man it is hot as shit out there. Sean, hopefully Colorado is
+providing some relief.
+
+When I got thinking last night about what artist to showcase today, it
+came to me very quickly.
+
+I was quite impacted by the devastating floods in Texas. Perhaps more
+than I should have been given I had no personal connection to anyone
+affected. But I had just picked up my two girls that morning of July 4th
+from Camp Cheerio after a two week stay. I think just seeing the
+pictures of those lost girls and realizing how easily that could have
+been my girls made me reflect a lot. Combine that with the fact the
+Texas hill country is a huge bucket list item of mine. For years I've
+been telling anyone who will listen that I can't wait to go down there
+rent an Airbnb in the hills and see great music, eat great food, and
+mess around on the Guadalupe. Looks like that trip will have to wait a
+few years.
+
+Tonight's artist is a big favorite of mine. So much so that I was well
+aware that he had a ranch in Kerr County. If you've been reading about
+the floods you may have come across some of REK's posts about his own
+girls being campers back in the day at the very camp that was greatly
+affected. Ironically I had added him to my "potential album candidates"
+list just a few days before July 4th.
+
+Anyway, clearly I felt compelled to play him tonight. I struggled to
+pick an album as I don't feel he has one that stands out as "the one."
+So I decided on going with a compilation album that runs 75 minutes
+(sorry). But the tunes are so great and you all probably know many of
+them so well that the time will fly! Please enjoy Robert Earl Keen's
+compilation titled simply Best.
+
+p.s. the transition from feeling good again to gringo honeymoon always
+puts a smile on my face 😀`,
+    coverUrl: "https://s3.amazonaws.com/busites_www/robertearlkeen2013com/content/discography/best_0.jpg",
   },
   {
     date: "2025-07-19",
-    person: null,
+    person: "Casey",
     artist: "Steely Dan",
     album: "Aja",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Scoutmaster Sean put in a call to the bullpen while he's out
+hiking at Philmont. Even though we are just switching weeks, I feel some
+odd pressure to pick an album he would like...and I think I came up with
+a good balance of my selection and honoring his wishes.
+
+A couple weeks ago while floating in the pool at Villa Alegria, we began
+a drunken, late afternoon conversation about the Saturday series. When
+the topic came to what we all have in reserve on our benches, we shared
+one album that we have in common.
+
+I really think that tonight's featured artist is one of the most
+underrated bands of all time despite extensive radio play: Steely Dan.
+My late stepfather-in-law loved these guys and felt there was nobody
+close to them. He even named his last dog Aja in honor of this
+masterpiece we will enjoy tonight.
+
+The funny thing is, I have always loved this album because of him and
+just how good it is, but I'd somehow missed how highly regarded it is
+until I watched HBO's Yacht Rock documentary (a must watch). Aja is
+considered to be a perfect studio album; music nerds universally say
+that there isn't a missed note on it. When I listened to it through that
+lens this spring, I tended to agree. Be careful not to call this yacht
+rock though - if you've seen the documentary then you know how Donald
+Fagen feels about that! Enjoy fellas.`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/4/49/Aja_album_cover.jpg/250px-Aja_album_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-07-26",
-    person: null,
+    person: "Sean",
     artist: "Willie Nelson",
     album: "Red Headed Stranger",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `I'm alive! (And just now realizing a few of my heroes aren't).
+I don't have time for a long write up but have been thinking about my
+pick over the last couple of days on the trail. I guess it's the
+solitude, the feeling of being in another era, and walking alone with my
+thoughts but one album kept popping up in my head. I'm sure you are all
+familiar with the album even if you have never listened to the whole
+thing. It's a little slow but a fantastic listen. So for tonight we are
+going with Willie Nelson's (I hope he is still alive) Red Headed
+Stranger.`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a4/WillieNelsonRedHeadedStrangeralbumcover.jpg/250px-WillieNelsonRedHeadedStrangeralbumcover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-08-02",
-    person: null,
+    person: "Jeremy",
     artist: "Avett Brothers",
     album: "I and Love and You",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Tonight's album is surely going to get lost in the shuffle of
+energy celebrating the big guys 50th...but it doesn't stop my conviction
+in choosing it because I think this band is one of the many things in
+the early days that started building the bond between this group.
+
+While we've all been a little let down by their most recent albums and
+hope for a future divorce for one of the bros, so we can go back to
+getting some good tunes, the songs of yesteryear have brought us all a
+ton of joy. One of the greatest concert evenings on December 30th of
+some year in the 20-teens that was spent not just with the bulk of this
+group but half the people at his shindig tonight.
+
+Not sure it's my favorite, but they're most popular and can't not choose
+the one where Brian has the lyrics on his damn wall. Please enjoy the
+killer food tonight and great fellowship with a little background music
+from our friends the avett brothers and "I and love and you"`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c2/IandLoveandYou.jpg/250px-IandLoveandYou.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-08-09",
-    person: null,
+    person: "Brian",
     artist: "Jerry Garcia, David Grisman, Tony Rice",
     album: "The Pizza Tapes",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `In case you were unaware, today is the 30 year anniversary of
+Jerry Garcia's death at the age of 53. I remember learning the news
+while home in Charlotte for the summer before my sophomore year of
+college and being genuinely devastated that the world had lost such a
+legend.
+
+There is not much more to say about why I picked this artist for today's
+Saturday album. Narrowing it down to one album to pick is daunting task,
+but this one has always stood out to me because it felt like we were
+getting a behind the scenes peak into the recording studio at David
+Grisman's house. The story behind this album is hilarious one, so look
+it up if you don't know it. This album to me always felt so raw and
+genuine, and it includes so many classic songs performed in a way that
+only Jerry could do them. Enjoy The Pizza Tapes, by Jerry Garcia, David
+Grisman and Tony Rice. I hope we can all tip one back for the GOAT while
+we listen.`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/ThePizzaTapes.jpg/250px-ThePizzaTapes.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-08-16",
-    person: null,
+    person: "Bagley",
     artist: "Leftover Salmon",
     album: "The Nashville Sessions",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Evening fellas. Tonight's album was one my favorite albums that
+came out while I was in college. I had gotten into their previous album
+my freshman year and was really getting into the hole new grass jam band
+thing, so the timing was perfect. But the real impact was from the
+covers on the album particularly the Waylon cover. I knew his radio hits
+of course but a light bulb went off when I heard the song on this album
+and the love affair began. It also introduced me to Taj Mahal and
+Lucinda Williams and I have since become huge fans of both. The albums
+consist of eight originals and five covers. This probably their best
+overall album and comes from their peak creative writing era. Doesn't
+hurt that Bela fleck, Sam bush, Jerry Douglas, John Cowan (and many
+more) are on several of the songs. Incredible musicianship and really
+well produced. And pretty sure you'll enjoy the guest singer on the last
+song. Hope you guys enjoy Leftover Salmon's 1999 album The Nashville
+Sessions.`,
+    coverUrl: "https://images.squarespace-cdn.com/content/v1/5886810cbe6594eccdf19d5a/1485792637030-58T2X0LPOL12IIYIGVPW/image-asset.jpeg?format=2500w",
   },
   {
     date: "2025-08-23",
-    person: null,
+    person: "Sean",
     artist: "Sam Cooke",
     album: "Night Beat",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Happy Saturday crew!
+
+It seems like forever since I got to throw an album out to the group.
+Last time was a bit of a post-Philmont scramble, so I wanted to take my
+time and bring something special this round.
+
+This one's a little different. I found it a couple years ago thanks to a
+super nerdy audiophile recommendation (yes, I know how that sounds), and
+it's been in steady rotation ever since. It's stripped down, super
+intimate, and the vocals are front and center in the best way. Like,
+"chills down your spine" kind of good.
+
+It leans into blues and gospel---sad and soulful, but still warm and
+hopeful. I couldn't help but think of Brian at Sewanee this weekend.
+It's got that emotional weight, but it doesn't leave you in the dark.
+
+Now, here's your hint: you definitely know the artist. He showed up
+early in our series, but this album is a totally different vibe. Think
+late-night session, lights low with a good pour, just a small band and
+one of the greatest voices ever doing his thing.
+
+Bonus fun fact: The organist on this album? None other than Billy
+Preston (thank you Brian for the introduction).
+
+Alright, enough suspense...Tonight's pick is Night Beat by Sam Cooke.
+
+Hope you dig it as much as I do.`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Night_Beat_cover.jpg/250px-Night_Beat_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-08-30",
-    person: null,
+    person: "Casey",
     artist: "Bob Dylan",
     album: "Nashville Skyline",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Happy Labor Day weekend and college football season, gentlemen!
+I teased this artist last summer with another pick, but it is time we
+officially welcome Mr. Bob Dylan to the Saturday album lineup. A
+confluence of events this summer led me to this album, one I'd never
+listened to before. First was watching the biopic movie, and the second
+was hearing Ketch Secor use the chorus of "Girl from the North Country"
+in one of his new songs. It is one of my all-time favorite Dylan songs
+and leads off tonight's selection: "Nashville Skyline."
+
+This is ole Bob's take at a country record, and you will likely only
+know a couple of the songs. It's got a good pace to it though, and not
+bad to start off with some accompaniment from Johnny Cash. Fun fact -
+his voice will probably come across less rough than usual and he
+attributes that to having stopped smoking cigarettes for a few months
+beforehand. I've always noticed that on the studio version of "Lay Lady
+Lay," but I never knew the back story.
+
+This is a quick one, so I hope you enjoy these next 26 minutes of an
+American legend.`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/9/93/Bob_Dylan_-_Nashville_Skyline.jpg/250px-Bob_Dylan_-_Nashville_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-09-06",
-    person: null,
+    person: "Jeremy",
     artist: "Nickel Creek",
     album: "Nickel Creek",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Alright boys, let's set the scene: it's the year 2000. We've
+got Napster downloads crawling along on dial-up, frosted tips on every
+MTV screen, and Jeremy and his buddies high as giraffe taint listening
+to this album while playing tiger woods golf on PlayStation2. While the
+world was busy with boy bands and pop-punk, three baby-faced musical
+prodigies dropped this self-titled debut.
+
+It wasn't dusty porch bluegrass, it wasn't pop radio---it was something
+fresh. Alison Krauss produced it and you'd swear sometimes 19 year old
+Sara Watkins's sounded just like her. The lead man has continued to
+create and participate in projects and is a killer mandolin player.
+
+I'll give Brian two free fast forwards for sweet afton and the hands
+song (also known as his bathtub theme song), but hope we all enjoy the
+self titled debut of Nickel creek...called Nickel creek.`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Nickel_Creek-Nickel_Creek.jpg/250px-Nickel_Creek-Nickel_Creek.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-09-13",
-    person: null,
+    person: "Brian",
     artist: "Dave Matthews Band",
     album: "Recently",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Fear not, I am here! Hammered and in heaven, but here.
+
+I am not real proud of today's pick, and I feel like I need to ask for
+forgiveness ahead of time in hopes that I am not kicked out of this
+elite club.
+
+I am at my first Sewanee Parents Weekend on this side of things.
+
+Anna had a group of her friends over to our cabin last night for a
+shrimp boil and it gave me some serious flashbacks to my freshman year.
+
+There was no band that was more popular back in 1994 and my friends and
+I were absolutely obsessed with them. I don't even really enjoy their
+music anymore, which is wild to me because of how into them I was for my
+entire college run.
+
+We bought this album at a concert we went to, and I think for a bit,
+that was the only way you could get it, it was not sold at Record Bar or
+Ernie's. We thought we were the shit for owning it. It is getting the
+nod tonight because it is incredibly short and has five decent tunes on
+it. Your wives will probably enjoy this much more than you will.
+
+I apologize..... 28 short minutes.....here is Recently by Dave Matthews
+Band.`,
+    coverUrl: "https://shop.davematthewsband.com/cdn/shop/files/DMDD7.jpg?v=1755633010&width=823",
   },
   {
     date: "2025-09-20",
-    person: null,
+    person: "Bagley",
     artist: "Taj Mahal",
     album: "The Natch’l Blues",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Evening fellas! Gotta give full credit to my wife for tonight's
+album selection. I'd heard a little bit of his stuff before I met her
+but didn't know him well. We wore out this album in our early dating
+days and I became a big fan. His first two albums are unreal (and I'm
+sure the rest are too). I had been on the used vinyl hunt for this album
+for years and finally scored it last weekend in a hipster neighborhood
+in DC. And so now seems like the appropriate time to bust it out. And as
+much as I love me some Leavin' Trunk, I gotta give the nod to the album
+that started it all, The Natch'l Blues by Taj Mahal.
+
+Special shout out to the song Corinna. I might name me a dog after that
+song one day.`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/9/97/Natchlblues.jpg/250px-Natchlblues.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-09-27",
-    person: null,
+    person: "Sean",
     artist: "Beck",
     album: "Sea Change",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Happy Saturday fellas!!
+
+After another day of Ryder Cup beat downs, I thought about going with
+something loud and angry --- but with everything going on around here
+with my wife on the mend, I ended up choosing something slower and more
+melancholy. This album fits that mood perfectly.
+
+It's one I've always loved. The songs are emotional without being
+overdone, and the production is layered in a way that is always
+interesting. It's a great album for headphones --- there's a lot going
+on underneath the surface, and I always hear new things every time I put
+this on.
+
+What stands out most is the songwriting. The artist is known for
+switching styles from album to album, but this one really focuses on the
+lyrics and mood. It's not flashy, but it's powerful in a somber yet
+optimistic kind of way.
+
+I hope y'all enjoy tonight's album from an artist I'm betting you aren't
+super familiar with. It's Sea Change by Beck. Enjoy!!`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/3/35/Beckseachange.jpg/250px-Beckseachange.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-10-04",
-    person: null,
+    person: "Casey",
     artist: "Rick Danko",
     album: "Live on Breeze Hill",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `I'm not sure why this would ever happen, but if someone held a
+gun to my head and made me pick my favorite artist of all time, I'd say
+The Band. Great songs mixed with a lineup of powerhouse vocalists, my
+personal favorite being Mr. Rick Danko.
+
+Tonight's feature "Live on Breeze Hill" was released a few months before
+his unexpected death in 1999. Along with some of his most popular
+tracks, it also includes others from The Band's catalog that were
+usually sung by other members. He's even joined by Garth Hudson on this,
+and you'll hear the organ going strong on "Chest Fever."
+
+I'm never a fan of skipping songs on albums, but I honestly don't think
+the first song belongs at all. This is a live record, and "Sip the Wine"
+is a studio cut. I once read that it was only included because it is
+played in The Last Waltz when they are talking about going their
+separate ways. I'll let you decide what to do, but I feel like the fun
+really begins with "Twilight," a song that I've come to absolutely love
+over the years.
+
+Happy Saturday evening, gents. Enjoy!`,
+    coverUrl: "https://www.woodstockrecords.com/pics/sm-breezehill.jpg",
   },
   {
     date: "2025-10-11",
-    person: null,
+    person: "Jeremy",
     artist: "Waylon Jennings",
     album: "Songbird",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Good evening gentlemen...one other time I've introduced a brand
+spanking new album I assume no one has heard (I could maybe see bagley
+having listened to this one), but tonight we're doing it again after one
+week in the wild.
+
+The difference tonight is the new album is by an artist no longer with
+us. He's graced us on Saturday night before but this one is with the
+help of his incredibly talented son who dug back into a trove of "lost
+songs" that were digitized back in 2008 to find 35 minutes of goodness
+for us.
+
+The album has some great songs, some made popular by the likes of
+Fleetwood Mac, and crystal gale. But also some apparently great writers.
+I think my favorite is "I'd like to love you baby" by JJ Cale who wrote
+after midnight and cocaine for Eric Clapton. To me it's got a vibe
+verrry much like Scooter Blues. I could hear Sturgill singing it.
+
+So enough with the mystery. Hope you enjoy this new album by Mr. Wayon
+Jennings called "Songbird" brought to us thanks to some great work by
+Shooter.`,
+    coverUrl: "https://americana-uk.com/wp-content/uploads/wsg4_ujQ-250x250.jpeg",
   },
   {
     date: "2025-10-18",
-    person: null,
+    person: "Brian",
     artist: "Widespread Panic",
     album: "Ain’t Life Grand",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Evening Folks,
+
+Congrats on reaching this amazing milestone!
+
+When I found out it was going to be my weekend to curate, I knew right
+away that it had to be a Panic album.
+
+Impossible decision.
+
+Do I go with the first album I got of theirs? (Space Wrangler)
+
+Do I go with my current favorite? (Uber Cobra)
+
+Do I switch it up and we listen to a full show this week instead of a
+traditional album? (Looked into some 1996 Sit and Ski acoustic shows)
+
+Do I think outside the box and build my own playlist on YouTube and we
+listen/watch a greatest hits compilation? (seemed too far outside the
+box and not really an "album")
+
+I have been all over the place with this pick for a couple of months
+now, and really did not want to disappoint on this monumental occasion.
+
+I ended up going with the one I listened to almost daily my freshman
+year of college, which includes some of my favorite tunes of all-time.
+
+ChatGPT describes how it fits in with all of our previous selections in
+this way:
+
+"Sonically it bridges your recent Americana run (Waylon, Rick Danko,
+Jerry Jeff) with the funkier edge of older picks like The Meters and
+Galactic.
+
+It's vibe is confident, earthy, and classic Panic without being too
+sprawling."
+
+Before you listen, humor yourself by watching this performance on
+youtube. Once you are done marveling at how young they look, and Mikey
+shredding it from a standing position, please spend the rest of the
+video focused on the horns section, particularly the fedora wearing
+trumpet player. He alone will make you so happy.
+
+https://youtu.be/wON3PgZdmL4
+
+After the video, enjoy us hitting the century mark by enjoying some old
+school, classic WSMFP with a little Ain't Life Grand.
+
+Happy 100th!`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/2/24/WidespreadPanicALG.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
   },
   {
     date: "2025-10-25",
-    person: null,
+    person: "Bagley",
     artist: "Rush",
     album: "Farewell to Kings",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Hide ya kids! Hide ya wife! You knew this day would come
+eventually. With the recent shocking announcement that they will go on
+tour next year (a day no fan thought would ever happen again), I am
+forced with no other option than to put the mastery of Rush upon you.
+And with Geddy's beloved Blue Jays not just in the WS, but destroying
+the hated dodgers last night, there will never be a better time.
+
+I chose the least hella gay album I could think of...A Farewell to Kings
+from 1977. Also, it is my favorite album (ok that's the real reason).
+
+This might be a Monday, close your office door type listen, so your
+coworkers don't look at you with confused side eye. Rush is definitely
+kind of a love em or hate em band, which I totally get, and many (most?)
+find Geddy's voice grating (fair point). Obviously, I am not one of
+those, and have been a hardcore fan since I was 15. I ran into an old
+high school acquaintance one day and we were talking and he was like,
+are you still a huge Rush fan? Apparently I always made it known. There
+are very few bands that are just extremely special to you, ya know?
+Like, I'm so glad those dudes crossed paths in life and decided to form
+a band. Panic is one of those. Rush is another. And now I get to see
+them again next November in Charlotte. Unreal.
+
+Time to embrace your inner nerd and listen to lines like "for I have
+dined on honeydew and drunk the milk of paradise." Oh yeah baby, total
+chick magnet music.
+
+If you hate it, good news, it's only 37 minutes. If you love it, and at
+the end your like...More Rush! More Rush! Go over and put on the nine
+minute Natural Science from the Permanent Waves album. Probably my
+favorite Rush song. Enjoy!(?) 😀`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1e/Rush_A_Farewell_to_Kings.jpg/250px-Rush_A_Farewell_to_Kings.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-11-01",
-    person: null,
+    person: "Sean",
     artist: "Guns N’ Roses",
     album: "Appetite for Destruction",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Happy Halloween weekend 🎃 yall! Was debating about going with
+something scary and twisted for the theme but decided to stick with my
+roots and throw a true hard rock classic your way. I guess the album
+cover depicts each member as a skeleton so there's that.
+
+Anyway, this is one of my all time favorite albums and one that I
+absolutely wore the tape out on during middle school. This band became
+huge but their first album is easily the best. This one is gritty, loud
+with a ton of attitude and always felt a little dangerous given some of
+the subject matter. Especially listening as a kid. It also has one of
+the best rock ballads on the second half of the record.
+
+So as always, turn it up and enjoy this gem from 1987. It's Guns N'
+Roses, Appetite for Destruction!! 💪 n 🌹`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/6/60/GunsnRosesAppetiteforDestructionalbumcover.jpg/250px-GunsnRosesAppetiteforDestructionalbumcover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-11-08",
-    person: null,
+    person: "Casey",
     artist: "Cordovas",
     album: "That Santa Fe Channel",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Given this afternoon's big basketball scrimmage over at South
+Meck, we are going to listen to a band led by a Sabre alum. It is the
+perfect reason to finally pull this one off my list. I didn't know this
+fun fact until I saw these guys back in August so I reached out to
+interim Head Ball Coach, Jonathan McIntyre, to see if he remembered the
+front man. Not only did he remember Joe Firstman, his brother had
+actually been his drummer back in high school.
+
+I'd say that the music of Cordovas has come a good way since those days
+but their fame hasn't really progressed much at all. I think these guys
+are absolutely fantastic, and it blows my mind how hard a band like this
+has to grind just to get to play music for a living. Sean and I talk
+about this all the time; a successful tour for them is probably making
+just enough money to pay for the trip.
+
+I also know there is possibly a cocktail hour live listen for the
+Kirby's/Bagley's and wanted to set a good vibe for that. This one will
+deliver for sure. Please enjoy That Santa Fe Channel by Cordovas.
+Cheers.`,
+    coverUrl: "https://f4.bcbits.com/img/a0629262068_2.jpg",
   },
   {
     date: "2025-11-15",
-    person: null,
+    person: "Jeremy",
     artist: "Guy Clark",
     album: "Old No. 1",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Man did I almost have a mess up tonight...I had Pearl Jam "Ten"
+teed up and looked back at the list for a reference on 90's rock and
+damn if it wasn't there...so a pivot is here, but one I've had on the
+list when we need to show reverence to the Americana we know and love.
+The mention of the Todd Snider passing today locked it in...
+
+Tonight we're spinning one of the gentlemen that helped launch this
+genre and has been referenced as an influence to many. This record from
+1975 landed right in the middle of Prine and the rage of outlaw country.
+
+Not the most upbeat album but I could listen to LA Freeway 1000 times
+and it's been covered by a number of the SAC series artists (including
+Todd Snider). When I did a little fun fact research (he actually built
+guitars and the album cover was just a random picture in front of his
+workshop) about every damn Americana artist on our list referenced him
+as an influence.
+
+This is the album that taught songwriters how to write songs. Hope you
+enjoy the quick 36 minute listen of Guy Clark Jr.'s "Old #1"`,
+    coverUrl: "https://m.media-amazon.com/images/I/71YYQMq5yCL._SY450_.jpg",
   },
   {
     date: "2025-11-22",
-    person: null,
+    person: "Bagley",
     artist: "Alice In Chains",
     album: "Unplugged",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Evening fellas! And good luck tonight Brian!
+
+Tonight's album is a deserted island album for me. And in my not so
+humble opinion, the greatest of the bunch in the MTV Unplugged series.
+
+Definitely the least popular of the "big four" Seattle grunge bands. So
+of course the contrarian in me says they are the best of the four!
+
+I will say I do think they had the best guitarist of the Seattle bunch.
+I've come to really appreciate Jerry Cantrell over the years.
+Unfortunately, the band's career got cutoff by Layne's crushing heroine
+addiction. Luckily we got this gem out of the boys before he departed
+Earth.
+
+Hope y'all enjoy Alice In Chains Unplugged from 1996.`,
+    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/4/43/AIC_Unplugged.jpg/250px-AIC_Unplugged.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
   },
   {
     date: "2025-11-29",
-    person: null,
+    person: "Brian",
     artist: "Jimmy Cliff",
     album: "Best of Jimmy Cliff",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `I would like to again thank Mr. Bagley for switching up with me
+last week. It was a perfect album selection for the two year
+anniversary. For tonight, we are going in a different direction and we
+are going to pay tribute to an influential musician that passed away
+earlier this week. Many of his songs have been covered by some of my
+favorite artists, like Widespread Panic and Jerry Garcia. Enjoy some
+"spiritually uplifting, socially conscious, and emotionally soulful
+reggae" from Mr. Jimmy Cliff. RIP!`,
+    coverUrl: "https://cdn-images.dzcdn.net/images/cover/0c49184df4e7cee6b2427ed9afaae5f1/500x500-000000-80-0-0.jpg",
   },
   {
     date: "2025-12-06",
-    person: null,
+    person: "Sean",
     artist: "Gov’t Mule",
     album: "Live From Roseland Ballroom",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Friends seen and unseen, it\\'s time for our Saturday album
+listen and boy do I have a treat for ya\\'ll!
+
+Some albums don't just sound great---they change everything. This one
+pulled me out of the metal and grunge scene and dropped me into a world
+of improv blues and jam bands. The opener is nearly twenty minutes of
+pure fire, building to a moment so iconic that someone in the crowd
+literally screams when the familiar cover notes hit around the 12:30
+mark. From start to finish, it's a showcase of raw chemistry and
+musicianship that few bands ever achieve. Warren Haynes' soaring guitar
+tone and gritty, soulful vocals are the glue that holds it all together.
+
+It's bittersweet knowing the original trio didn't last after the
+bassist's tragic passing 25 years ago. But for me, this record remains
+the turning point---the one that made me the music-loving hippie you
+know today. The album? Gov't Mule -- Live at Roseland Ballroom.
+
+Extra factoid - this was recorded NYE 1995 when they opened for Blues
+Traveler. I feel bad they had to follow this killer set!!`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/4/4b/Larbcover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
   },
   {
     date: "2025-12-13",
-    person: null,
+    person: "Casey",
     artist: "Reigning Sound",
     album: "Shattered",
     notes: "",
-    writeup: "",
-    coverUrl: "",
+    writeup: `Tonight's selection was my number 1 listened to album of 2025
+despite never having heard of the band this time a year ago. It was
+introduced to me by my good friend MC Taylor (see below, go to 2:25
+mark) as he was discussing his favorite albums on the Merge Records
+label. I'd not re-watched his explanation of why he liked it so much
+until this week, and he is spot on - this album has so many different
+sounding songs on it. I especially like the fact that all songs are
+2:30-3:30 minutes in length so it is fast paced and only 33 minutes
+total. And the opening song is a nice nod to those of you who are
+married to North Cackalacky Girls. I hope you enjoy "Shattered" by
+Reigning Sound as much as I have.`,
+    coverUrl: "https://f4.bcbits.com/img/a0828988077_10.jpg",
   },
   {
     date: "2025-12-20",
