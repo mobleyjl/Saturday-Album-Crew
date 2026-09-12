@@ -49,7 +49,7 @@ const albumHistory = [
   },
   {
     date: "2023-12-30",
-    person: "Marshall",
+    person: "Casey",
     artist: "ABB",
     album: "Eat a Peach",
     notes: "Video presentation from Marshall",

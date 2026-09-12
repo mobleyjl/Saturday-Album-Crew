@@ -190,10 +190,53 @@ h1 {
 }
 
 .history h2 {
-  margin: 0 0 16px;
+  margin: 0 0 12px;
   font-family: "Fraunces", Georgia, serif;
   font-size: 1.35rem;
   font-weight: 700;
+}
+
+.history-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.history-filter {
+  appearance: none;
+  border: 1px solid var(--line);
+  background: var(--bg);
+  color: var(--muted);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.history-filter:hover {
+  border-color: rgba(232, 184, 109, 0.4);
+  color: var(--ink);
+}
+
+.history-filter.is-active {
+  border-color: rgba(232, 184, 109, 0.55);
+  background: rgba(232, 184, 109, 0.16);
+  color: var(--ink);
+}
+
+.history-count {
+  margin: 0 0 14px;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.history-empty {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
 }
 
 #history-list {
@@ -203,7 +246,7 @@ h1 {
 
 .history-item {
   display: grid;
-  grid-template-columns: 64px 1fr;
+  grid-template-columns: 64px minmax(0, 1fr) auto;
   gap: 12px;
   align-items: start;
   padding: 12px;
@@ -264,6 +307,39 @@ h1 {
   line-height: 1.4;
 }
 
+.history-toggle {
+  appearance: none;
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  margin: -4px -4px 0 0;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--bg);
+  color: var(--accent);
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+}
+
+.history-toggle:hover {
+  border-color: rgba(232, 184, 109, 0.55);
+}
+
+.history-toggle-icon {
+  display: block;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(45deg) translateY(-1px);
+  transition: transform 0.16s ease;
+}
+
+.history-item.is-expanded .history-toggle-icon {
+  transform: rotate(225deg) translateY(-1px);
+}
+
 .history-writeup {
   display: none;
   grid-column: 1 / -1;
@@ -274,8 +350,9 @@ h1 {
   white-space: pre-wrap;
 }
 
-.history-writeup.has-text {
+.history-item.is-expanded .history-writeup.has-text {
   display: block;
+  padding-top: 2px;
 }
 
 @media (max-width: 400px) {
@@ -289,7 +366,7 @@ h1 {
   }
 
   .history-item {
-    grid-template-columns: 56px 1fr;
+    grid-template-columns: 56px minmax(0, 1fr) auto;
     gap: 10px;
     padding: 10px;
   }

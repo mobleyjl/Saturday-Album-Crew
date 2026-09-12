@@ -244,16 +244,118 @@ function historyTitle(entry) {
   return artist || album || "No pick";
 }
 
-function renderHistory() {
-  const historyListEl = document.getElementById("history-list");
-  if (!historyListEl || typeof albumHistory === "undefined") {
+const NO_PICKER_FILTER = "__none__";
+let selectedPickerFilter = "all";
+
+function pickerName(entry) {
+  return typeof entry.person === "string" ? entry.person.trim() : "";
+}
+
+function getHistoryEntries() {
+  if (typeof albumHistory === "undefined") {
+    return [];
+  }
+
+  return [...albumHistory].sort((a, b) => b.date.localeCompare(a.date));
+}
+
+function getPickerFilters(entries) {
+  const namedPickers = new Set();
+  let hasNoPicker = false;
+
+  entries.forEach((entry) => {
+    const name = pickerName(entry);
+    if (name) {
+      namedPickers.add(name);
+    } else {
+      hasNoPicker = true;
+    }
+  });
+
+  const rotationPickers = MEMBERS.filter((name) => namedPickers.has(name));
+  const guestPickers = [...namedPickers]
+    .filter((name) => !MEMBERS.includes(name))
+    .sort((a, b) => a.localeCompare(b));
+
+  const filters = [{ value: "all", label: "All" }];
+  rotationPickers.concat(guestPickers).forEach((name) => {
+    filters.push({ value: name, label: name });
+  });
+
+  if (hasNoPicker) {
+    filters.push({ value: NO_PICKER_FILTER, label: "No picker" });
+  }
+
+  return filters;
+}
+
+function matchesPickerFilter(entry) {
+  if (selectedPickerFilter === "all") {
+    return true;
+  }
+
+  const name = pickerName(entry);
+  if (selectedPickerFilter === NO_PICKER_FILTER) {
+    return !name;
+  }
+
+  return name === selectedPickerFilter;
+}
+
+function renderHistoryFilters(entries) {
+  const filtersEl = document.getElementById("history-filters");
+  if (!filtersEl) {
     return;
   }
 
-  const entries = [...albumHistory].sort((a, b) => b.date.localeCompare(a.date));
+  filtersEl.innerHTML = "";
+  getPickerFilters(entries).forEach((filter) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "history-filter";
+    button.textContent = filter.label;
+    if (filter.value === selectedPickerFilter) {
+      button.classList.add("is-active");
+    }
+    button.setAttribute("aria-pressed", filter.value === selectedPickerFilter ? "true" : "false");
+    button.addEventListener("click", () => {
+      selectedPickerFilter = filter.value;
+      renderHistory();
+    });
+    filtersEl.append(button);
+  });
+}
+
+function renderHistory() {
+  const historyListEl = document.getElementById("history-list");
+  const historyCountEl = document.getElementById("history-count");
+  if (!historyListEl) {
+    return;
+  }
+
+  const entries = getHistoryEntries();
+  const visibleEntries = entries.filter(matchesPickerFilter);
+  renderHistoryFilters(entries);
+
+  if (historyCountEl) {
+    const noun = visibleEntries.length === 1 ? "album" : "albums";
+    historyCountEl.textContent =
+      selectedPickerFilter === "all"
+        ? `${visibleEntries.length} ${noun}`
+        : `${visibleEntries.length} ${noun} shown`;
+  }
+
   historyListEl.innerHTML = "";
 
-  entries.forEach((entry) => {
+  if (!visibleEntries.length) {
+    const empty = document.createElement("p");
+    empty.className = "history-empty";
+    empty.textContent = "No albums match this picker.";
+    historyListEl.append(empty);
+    return;
+  }
+
+  visibleEntries.forEach((entry, index) => {
     const item = document.createElement("article");
     item.className = "history-item";
 
@@ -296,14 +398,39 @@ function renderHistory() {
       body.append(notesEl);
     }
 
-    const writeupEl = document.createElement("p");
-    writeupEl.className = "history-writeup";
+    item.append(cover, body);
+
     if (entry.writeup) {
-      writeupEl.classList.add("has-text");
+      const writeupId = `history-writeup-${entry.date}-${index}`;
+      const toggle = document.createElement("button");
+      toggle.type = "button";
+      toggle.className = "history-toggle";
+      toggle.setAttribute("aria-expanded", "false");
+      toggle.setAttribute("aria-controls", writeupId);
+      toggle.setAttribute("aria-label", `Show writeup for ${historyTitle(entry)}`);
+
+      const icon = document.createElement("span");
+      icon.className = "history-toggle-icon";
+      icon.setAttribute("aria-hidden", "true");
+      toggle.append(icon);
+
+      const writeupEl = document.createElement("p");
+      writeupEl.id = writeupId;
+      writeupEl.className = "history-writeup has-text";
       writeupEl.innerHTML = entry.writeup.replace(/\n/g, "<br>").replace(/\\n/g, "<br>");
+
+      toggle.addEventListener("click", () => {
+        const expanded = item.classList.toggle("is-expanded");
+        toggle.setAttribute("aria-expanded", expanded ? "true" : "false");
+        toggle.setAttribute(
+          "aria-label",
+          `${expanded ? "Hide" : "Show"} writeup for ${historyTitle(entry)}`
+        );
+      });
+
+      item.append(toggle, writeupEl);
     }
 
-    item.append(cover, body, writeupEl);
     historyListEl.append(item);
   });
 }
