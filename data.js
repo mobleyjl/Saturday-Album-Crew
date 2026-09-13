@@ -2800,7 +2800,7 @@ Hope y’all enjoy another great Athens, GA band, brute., and their final album 
     coverUrl: "https://wranglerspace.s3-accelerate.amazonaws.com/2002/04/Cobalt.jpg",
   },
   {
-    date: "2026-09-13",
+    date: "2026-09-12",
     person: "Sean",
     artist: "Isaac Hayes",
     album: "Hot Buttered Soul",
