@@ -1,5 +1,5 @@
 // Saturday Album Club listening history.
-// One object per Saturday, from the start of the series through 2026-09-13.
+// One object per Saturday, from the start of the series through 2026-09-12.
 
 const albumHistory = [
   {
@@ -9,7 +9,7 @@ const albumHistory = [
     album: "self titled",
     notes: "",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/3/3c/Paul_Pena_1971.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/8f/7c/78/8f7c7817-782b-01a9-59d6-3af94184724e/05099902859958.jpg/1200x1200bb.jpg",
   },
   {
     date: "2023-12-02",
@@ -18,7 +18,7 @@ const albumHistory = [
     album: "Texas Flood",
     notes: "",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/5/5e/StevieRayVaughanTexasFlood.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/50/02/27500228-f8e4-8c5c-bb1c-8bfbec68a5fb/886443827141.jpg/1200x1200bb.jpg",
   },
   {
     date: "2023-12-09",
@@ -27,7 +27,7 @@ const albumHistory = [
     album: "Graceland",
     notes: "",
     writeup: "",
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Graceland_cover_-_Paul_Simon.jpg/500px-Graceland_cover_-_Paul_Simon.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a7/73/c1/a773c1f0-281c-324c-204f-540444080ea8/886443445697.jpg/1200x1200bb.jpg",
   },
   {
     date: "2023-12-16",
@@ -36,7 +36,7 @@ const albumHistory = [
     album: "Stand By Me",
     notes: "soundtrack",
     writeup: "",
-    coverUrl: "https://i.discogs.com/CoShHyBZY-VliwfApcWAwYau-wteRK3x9VsbLWJ9Cdc/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ5MzM5/NzItMTQ2ODM0NTY2/MC0yNTcyLmpwZWc.jpeg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/82/f1/87/mzi.lvooiexk.jpg/1200x1200bb.jpg",
   },
   {
     date: "2023-12-23",
@@ -45,7 +45,7 @@ const albumHistory = [
     album: "Sky Blue Sky",
     notes: "",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/3/3b/Sky_Blue_Sky_%28Front_Cover%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/d3/d8/8a/mzi.swwllzjm.jpg/1200x1200bb.jpg",
   },
   {
     date: "2023-12-30",
@@ -54,7 +54,7 @@ const albumHistory = [
     album: "Eat a Peach",
     notes: "Video presentation from Marshall",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/c/c3/Eat_a_Peach_%28James_Flournoy_Holmes_album_-_cover_art%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9c/b5/33/9cb53320-8975-23a9-5045-28c412a5814a/16UMGIM14647.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-01-06",
@@ -67,12 +67,12 @@ const albumHistory = [
   },
   {
     date: "2024-01-14",
-    person: "Sean",
+    person: null,
     artist: "Black Sabbath",
     album: "Paranoid",
     notes: "",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/6/64/Black_Sabbath_-_Paranoid.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/27/91/be279120-2285-16c6-c7ba-9d6643d4a948/075992732727.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-01-20",
@@ -81,520 +81,520 @@ const albumHistory = [
     album: "Stage Fright",
     notes: "",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/1/14/StageFright.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c0/2b/13/c02b1369-8a4d-dce0-8d6b-9165545d5084/00602547246493.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-01-27",
-    person: "Jeremy",
+    person: null,
     artist: "Jurassic 5",
     album: "Quality Control",
     notes: "",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/7/7d/Jurassic5_QualityControl_albumcover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/cd/e4/e3/cde4e302-4429-8d8c-7b76-d201ebb56d0f/5400863132385_cover.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-02-03",
-    person: "Bagley",
+    person: null,
     artist: "Tom Petty & the Heartbreakers",
     album: "Into the Great Wide Open",
     notes: "",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/9/95/Tom_Petty_ITGWO.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/82/7f/96/827f96f5-4ef5-3216-d68f-be3e11fe160f/06UMGIM07741.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-02-10",
-    person: "Sean",
+    person: null,
     artist: "Delbert McClinton",
     album: "Live from Austin",
     notes: "",
     writeup: "",
-    coverUrl: "https://f4.bcbits.com/img/a0942424677_10.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/0c/57/840c576e-55c1-f701-37bb-ba4ef7e71388/111534.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-02-17",
-    person: "Casey",
+    person: null,
     artist: "Neal Francis",
     album: "Changes",
     notes: "",
     writeup: "",
-    coverUrl: "https://f4.bcbits.com/img/a1070385363_1x1_700.avif",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1b/28/be/1b28be68-3b82-a7c7-bc15-b55b4a6dd1a6/60930.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-02-24",
-    person: "Jeremy",
+    person: null,
     artist: "Grady Spencer & The Work",
     album: "Wait",
     notes: "",
     writeup: "",
-    coverUrl: "https://i.discogs.com/kF_2-KbSmRwebzyk8vWe_cp86QaujUfjKD8Z8VzZGVg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMzM1/MjM1LTE3MDU1MDQ2/MzgtNDkyMS5qcGVn.jpeg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/70/c6/cb/70c6cbb4-9162-1ce2-b893-75f72ab87805/195269137090.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-03-02",
-    person: "Brian",
+    person: null,
     artist: "Uncle Tupelo",
     album: "No Depression",
     notes: "",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/0/0b/UTND.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/76/54/c3/7654c33a-56f2-db67-4510-7b8e06990450/886443417298.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-03-09",
-    person: "Bagley",
+    person: null,
     artist: "The Meters",
     album: "Rejuvenation",
     notes: "",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/e/e7/RejuvenationTheMeters.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/dc/71/91/dc71916f-eabd-ae78-dda8-26ce039c02b6/s06.qsfyhnqw.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-03-16",
-    person: "Sean",
+    person: null,
     artist: "Flaming Lips",
     album: "Soft Bulletin",
     notes: "",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/9/9d/Soft_Bulletin_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/da/cc/ca/dacccae4-4f00-f451-6051-46d04a7d5099/093624911791.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-03-23",
-    person: "Casey",
+    person: null,
     artist: "The Who",
     album: "Who’s Next",
     notes: "PPP",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/4/44/Whosnext.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/a5/e7/70/a5e7703c-4e30-da7a-a319-2d3caef42c0e/23UM1IM04872.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-03-30",
-    person: "Jeremy",
+    person: null,
     artist: "Ricky Skaggs & Bruce Hornsby",
     album: "Ricky Skaggs & Bruce Hornsby",
     notes: "",
     writeup: "",
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/e/e1/SkaggsHornsby.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b5/c0/69/b5c06968-81f2-fbf2-d46f-3be304a69853/mzi.lkpojrkf.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-04-06",
-    person: "Brian",
+    person: null,
     artist: "War",
     album: "All Day Music",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/07/09/32/070932c2-65f3-b0e4-a4dc-4a5d930ada66/602527595320.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-04-13",
-    person: "Bagley",
+    person: null,
     artist: "The Marshall Tucker Band",
     album: "The Marshall Tucker Band",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/81/f4/76/81f47615-7a28-83a6-126b-595b77a9e0f0/886444603928.png/1200x1200bb.jpg",
   },
   {
     date: "2024-04-20",
-    person: "Sean",
+    person: null,
     artist: "ABB",
     album: "Shades of Two Worlds",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/99/25/e1/9925e160-8ead-7b27-f225-d430a738863d/888880675590.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-04-27",
-    person: "Casey",
+    person: null,
     artist: "Sam Cooke",
     album: "Live at Harlem Square",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/b1/80/5e/b1805ee4-39d3-32d6-0aef-e07595ec218a/dj.xndujmfn.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-05-04",
-    person: "Jeremy",
+    person: null,
     artist: "Sturgill Simpson",
     album: "Metamodern Sounds in Country Music",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/24/5c/b1/245cb120-748e-982d-2bb9-4c21523e1b67/886444551298.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-05-11",
-    person: "Brian",
+    person: null,
     artist: "Sam Bush",
     album: "Glamour and Grits",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/87/1c/48/871c48ce-fdc1-df3c-d997-3d94f291239f/00015891384955.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-05-18",
-    person: "Bagley",
+    person: null,
     artist: "Jeff Buckley",
     album: "Grace",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/26/d6/e3/26d6e339-a7a9-d61e-1b5f-0852a5515a55/886445517880.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-05-25",
-    person: "Sean",
+    person: null,
     artist: "Widespread Panic",
     album: "Light Fuse, Get Away",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/d7/ad/7e/mzi.wqxxcfvu.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-06-01",
-    person: "Casey",
+    person: null,
     artist: "Dan Auerbach",
     album: "Waiting on a Song",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b2/c2/09/b2c20979-a20e-aa2c-1924-21fd98c3401f/075597937503.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-06-08",
-    person: "Jeremy",
+    person: null,
     artist: "The New Mastersounds",
     album: "Shake It",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e9/04/07/e90407c6-f4f8-3f1b-d672-c98fd61682ff/194616194502_cover.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-06-15",
-    person: "Brian",
+    person: null,
     artist: "The Wood Brothers",
     album: "Live at the Barn",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/d5/3b/5f/d53b5fd1-06c5-1c14-d508-33f70c90e8fd/886446232652.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-06-22",
-    person: "Bagley",
+    person: null,
     artist: "Bob Marley",
     album: "Natty Dread",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/b9/ec/9f/b9ec9f4a-c4f1-5136-7587-86826e28d67b/06UMGIM34964.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-06-29",
-    person: "Sean",
+    person: null,
     artist: "Allison Krauss and Union Station",
     album: "Lonely Runs Both Ways",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6b/f1/04/6bf104d4-acdc-c0e9-f69f-01ca5600cf4d/00011661857223.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-07-06",
-    person: "Casey",
+    person: null,
     artist: "Old Crow Medicine Show",
     album: "50 Years of Blonde on Blonde- Live",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/a2/73/a7/a273a74c-5e9c-b71b-007d-dd8d37a928a0/886446385518.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-07-13",
-    person: "Jeremy",
+    person: null,
     artist: "Billy Strings",
     album: "Billy Strings Live vol. 1",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/4/41/Billy-Strings-Live-Vol-1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
   },
   {
     date: "2024-07-20",
-    person: "Brian",
+    person: null,
     artist: "John Prine",
     album: "John Prine",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/70/1f/ec/701fec1e-e9c0-6f34-9d0e-43eca7ae1e6a/603497887583.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-07-27",
-    person: "Bagley",
+    person: null,
     artist: "Tyler Childers",
     album: "Live on Red Barn Radio I and II",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/6d/40/34/6d40345d-f6dc-6e35-c5cd-510c1314f37f/859727285258_cover.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-08-03",
-    person: "Sean",
+    person: null,
     artist: "Jack White",
     album: "No Name",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/e2/9e/1ce29ea2-4ceb-e775-9b4f-1191ea6155ab/810074424233.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-08-10",
-    person: "Casey",
+    person: null,
     artist: "Shinyribs",
     album: "Well After Awhile",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c6/36/aa/c636aa10-cdfa-36ae-07f2-9a4ac682a0f8/859731017951_cover.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-08-17",
-    person: "Jeremy",
+    person: null,
     artist: "Silk Sonic",
     album: "An Evening with Silk Sonic",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c5/33/dc/c533dc8e-2baa-94f9-22be-e6e28945f932/075679754134.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-08-24",
-    person: "Brian",
+    person: null,
     artist: "The Beatles",
     album: "Let It Be",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/ff/9a/5fff9a6a-bb13-6507-5e68-2793ef798834/21UMGIM61121.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-08-31",
-    person: "Bagley",
+    person: null,
     artist: "The Chicks",
     album: "Home",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/5e/03/63/mzi.vwdssxbk.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-09-07",
-    person: "Sean",
+    person: null,
     artist: "Talking Heads",
     album: "Stop Making Sense",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/57/94/37/57943788-4a20-07db-1ed9-1fd526a7d0f4/mzi.wfxekfgc.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-09-14",
-    person: "Casey",
+    person: null,
     artist: "Beastie Boys",
     album: "License to ill",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/d7/81/e4d781e8-bd3f-486a-cd18-e9b3a7d12b34/00731452735126.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-09-21",
-    person: "Jeremy",
+    person: null,
     artist: "Aretha Franklin",
     album: "This Girls in Love With You",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/88/c9/9e/88c99eda-2749-f234-cbd2-4943b9492756/603497896684.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-09-28",
-    person: "Brian",
+    person: null,
     artist: "Crosby, Stills & Nash",
     album: "self-titled",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/09/f9/b7/09f9b792-1c73-f25d-79e0-a825b2a26695/081227329068.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-10-05",
-    person: "Bagley",
+    person: null,
     artist: "My Morning Jacket",
     album: "Z",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d6/6e/a3/d66ea33c-98ff-f0a3-a7ec-19070c9b5dcd/00880882666057_Cover.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-10-12",
-    person: "Sean",
+    person: null,
     artist: "Lyle Lovett",
     album: "Pontiac",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/97/a2/4d/97a24db9-c512-14a5-b8f5-307f5c4a6b1a/715187900622.png/1200x1200bb.jpg",
   },
   {
     date: "2024-10-19",
-    person: "Casey",
+    person: null,
     artist: "Dolly Parton",
     album: "The Grass is Blue",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/05/fd/56/05fd56e4-cc39-3018-2c51-b9ee64df872a/015891390055_Cover.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-10-26",
-    person: "Jeremy",
+    person: null,
     artist: "Red Clay Strays",
     album: "Made by These Moments",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/02/17/78/021778f3-9c1f-e211-30b6-854109b992ae/196871996808.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-11-02",
-    person: "Brian",
+    person: null,
     artist: "Grateful Dead",
     album: "Fallout from the Phil Zone",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/e6/2a/e3/mzi.gsmmaspd.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-11-09",
-    person: "Bagley",
+    person: null,
     artist: "Drive by Truckers",
     album: "The Dirty South",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/85/b6/f8/85b6f83a-7e03-1562-093f-0e78234f7108/1803.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-11-16",
-    person: "Sean",
+    person: null,
     artist: "B.B. King",
     album: "Live at The Regal",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/bc/fa/b8/bcfab88a-c67d-54c2-418d-dcd28420a507/00602547481955.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-11-23",
-    person: "Casey",
+    person: null,
     artist: "Hiss Golden Messenger",
     album: "Sanctuary Songs",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://i.discogs.com/tlgVLQUAdT8xETKY0taGC3TsMgxPxFM6LI8W_ZIaEhQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTI1/MzAxLTE2MTA2NDA3/MjktMjM4NS5qcGVn.jpeg",
   },
   {
     date: "2024-11-30",
-    person: "Jeremy",
+    person: null,
     artist: "St. Paul and the Broken Bones",
     album: "Half The City",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/ab/95/76ab9554-776e-b380-b5af-fd5916e2921c/198846602950.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-12-07",
-    person: "Brian",
+    person: null,
     artist: "Pearl Jam",
     album: "Ten",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/6/6f/Pearl_Jam_Ten_Alt_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
   },
   {
     date: "2024-12-14",
-    person: "Bagley",
+    person: null,
     artist: "Waylon Jennings",
     album: "Honky Tonk Heroes",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e7/8b/07/e78b0739-74ca-14ee-854d-a1aa12426659/886445321500.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-12-21",
-    person: "Sean",
+    person: null,
     artist: "Pink Floyd",
     album: "Wish You Were Here",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/aa/e0/ab/aae0ab6a-d906-a189-81bf-70b56aa43f7a/886445635843.jpg/1200x1200bb.jpg",
   },
   {
     date: "2024-12-28",
-    person: "Casey",
+    person: null,
     artist: "Allen Toussaint",
     album: "Sweet Touch of Love",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/df/f3/1ddff391-b057-d354-b3c5-ee309e2fd73d/2.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-01-04",
-    person: "Jeremy",
+    person: null,
     artist: "Jim Croce",
     album: "You Don’t Mess Around With Jim",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/af/1e/ea/af1eeac7-1c1f-2190-24b6-21a03ca5ac8f/5032698667321.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-01-11",
-    person: "Brian",
+    person: null,
     artist: "Billy Preston",
     album: "The Best",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5d/20/53/5d205376-0b6b-7809-bb44-39898319db4b/00082839320528.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-01-18",
-    person: "Bagley",
+    person: null,
     artist: "Johnny Jenkins",
     album: "Ton-Ton Macoute!",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/53/fe/59/53fe5985-2442-8a0e-1308-c36879401b80/00731453610620.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-01-25",
-    person: "Sean",
+    person: null,
     artist: "Ry Cooder",
     album: "Paradise and Lunch",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6a/5e/ba/6a5eba90-64b5-9e4d-f591-d1493d5e7842/mzi.hwwgdzvo.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-02-01",
-    person: "Casey",
+    person: null,
     artist: "The Rolling Stones",
     album: "Exile on Main Street",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/c/ca/ExileMainSt.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
   },
   {
     date: "2025-02-08",
-    person: "Jeremy",
+    person: null,
     artist: "John Mayer",
     album: "Continuum",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7a/a0/f4/7aa0f487-f983-390e-73ef-005115eea1e0/dj.oqpplyfm.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-02-15",
-    person: "Brian",
+    person: null,
     artist: "R.E.M",
     album: "Document",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e8/a9/b3/e8a9b351-578c-12b7-4cc4-791b90fac17b/00602537796731.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-02-22",
-    person: "Bagley",
+    person: null,
     artist: "Pretenders",
     album: "Learning to Crawl",
     notes: "",
     writeup: "",
-    coverUrl: "",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/3a/38/f9/mzi.tiwmdwvb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-03-01",
@@ -614,7 +614,7 @@ finally see them! I knew most of their music but the entire crowd knew
 every word and sang it out! This is some fun Sat night music so I hope
 you enjoy the listen! It's the Turnpike Troubadours : Goodbye Normal
 Street.`,
-    coverUrl: "https://t2.genius.com/unsafe/600x600/https%3A%2F%2Fimages.genius.com%2F9c417af9ded05c06c3417b4ffdd34b88.1000x1000x1.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/85/ff/ba/85ffbab3-54c6-58fd-1420-ec2bdcf8d006/Cover.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-03-08",
@@ -636,7 +636,7 @@ all these years. There have been numerous re-releases of this, but the
 original version is 9 songs long and ends with "Peaches and Diesel."
 This one stays in my rotation throughout the year, and I hope you enjoy
 it too.`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e7/EricClapton-Slowhand.jpg/250px-EricClapton-Slowhand.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e6/8b/8e/e68b8eb1-ddce-3332-4e66-5a15ccc04d6f/00600753407301.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-03-15",
@@ -661,7 +661,7 @@ My college roommate from western Nc loved these guys and dragged me
 along. Instant fan and for me the start to finding progressive
 bluegrass...with a saxophone for extra measure. Hope you enjoy some
 Acoustic Syndicate "Live from the neighborhood"`,
-    coverUrl: "https://m.media-amazon.com/images/I/61Qudn2UzXL._UX358_FMwebp_QL85_.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/00/ac/e6/00ace66b-a249-1bd0-aa4a-65108c7e470e/800314102229.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-03-22",
@@ -690,7 +690,7 @@ humor, and an undeniable charm that continues to resonate with us today.
 Can you tell that my summary was created using Chat GPT?
 
 Gents, enjoy this treat, The Traveling Wilbury's Volume 1`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/3/37/TravWilb1Cover.jpg/250px-TravWilb1Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2e/50/a1/2e50a171-3ec4-f0f9-a965-336c88e753e9/0888072392809.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-03-29",
@@ -714,7 +714,7 @@ panic has covered over the years and it's an overall badass album.
 Thought I'd send this over for those folks who may want to get their
 listen in before the evening of basketball. Hope y'all enjoy Neil
 Young's 1974 album On the Beach.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Neil_Young_-_On_the_Beach.png/250px-Neil_Young_-_On_the_Beach.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/df/58/ad/df58ada0-61d7-6b41-ceb4-b219ca5dc088/093624924715.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-04-05",
@@ -741,7 +741,7 @@ place.
 
 With that I hope you enjoy this classic from 1992, it's The Black Crowes
 : The Southern Harmony and Music Companion. Enjoy!!`,
-    coverUrl: "https://theblackcrowes.com/wp-content/uploads/2024/01/TBC_SH_BOX_3000x3000-copy-2048x2048.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0f/a3/5e/0fa35e21-4117-c246-6b8b-fefda10f31d5/00602537350872.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-04-12",
@@ -768,7 +768,7 @@ Susan's voice and Derek's guitar, and it is not only the sendoff from
 this segment but also the entire project. I hope you enjoy whenever you
 can get around to listening; I knew that it would be good any time of
 day or part of the week.`,
-    coverUrl: "https://f4.bcbits.com/img/a1299223306_2.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/50/94/3450943c-72df-f09c-ba0e-49066e46d537/22CRGIM31614.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-04-19",
@@ -817,7 +817,7 @@ human being. God, that cheesy wedding band absolutely butchered it.
 
 Anyways, I hope you will sing along to some timeless classics from a
 true legend, Mr. James Taylor.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/James_Taylor_Greatest_Hits.jpg/250px-James_Taylor_Greatest_Hits.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e2/0b/2f/e20b2f96-92f8-70ef-664c-951500854f03/603497847747.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-05-03",
@@ -847,7 +847,7 @@ Hopefully it fits the mood for those getting ready for a concert or
 gearing up for those horses tearing down the backstretch.
 
 Get ready to shake your ass and groove to Galactic's Ruckus.`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/5/55/Galactic-Ruckus.jpg/250px-Galactic-Ruckus.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5f/a1/9f/5fa19f2a-ab5c-ab4e-e825-4c4d885fb82c/5029575121229.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-05-10",
@@ -881,7 +881,7 @@ for what it is.
 
 Gentlemen, it's time for Led Zeppelin IV. As always, grab a cold one and
 turn it up!`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Zeppelin_IV.jpg/250px-Zeppelin_IV.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5c/15/9b/5c159b27-95ca-b9a7-84e3-28e795fffd39/dj.kvkrpptq.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-05-17",
@@ -915,7 +915,7 @@ album sounds like so many different bands and features some badass
 guitar. I honestly think it ranges from My Morning Jacket to Fleetwood
 Mac. Let's get this party started with "One of a Kind" by The Heavy
 Heavy.`,
-    coverUrl: "https://f4.bcbits.com/img/a4013017682_2.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/a2/85/ffa28567-2947-d210-7c26-d7e8375603ea/1353.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-05-24",
@@ -943,7 +943,7 @@ raspy voice and that unmistakable CCR groove.
 
 So crack a beer, cue the imaginary washboard, picture Brian eating that
 crawfish pie tonight and let's hang for a half hour in "Cosmo's Factory"`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/4/42/Creedence_Clearwater_Revival_-_Cosmo%27s_Factory.jpg/250px-Creedence_Clearwater_Revival_-_Cosmo%27s_Factory.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f3/81/ca/f381ca2b-0779-4102-2c64-8b2563eedb96/00888072355996.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-05-31",
@@ -968,7 +968,7 @@ background. Maybe desiring some blues this evening was my subliminal
 being telling me I am kind of sad about Anna heading off soon, even if I
 am not outwardly feeling it. Who knows? Regardless, enjoy this dirty
 little album... "I'll Play the Blues for You" by Albert King.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/f/f9/IllPlayTheBluesForYou.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4e/b2/0e/4eb20ef8-ec13-28d6-6cdc-97c2a765b507/25CRGIM52955.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-06-07",
@@ -990,7 +990,7 @@ arguably the most famous southern rock song of all time and then goes
 into a largely forgettable tune. But after that the rest of the album is
 quite solid. Go on ahead and get you a little Second Helping from Lynyrd
 Skynyrd.`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c5/SecondHelpingLynyrdSkynyrd.jpg/250px-SecondHelpingLynyrdSkynyrd.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f3/1e/c2/f31ec2df-8420-ea26-6d30-0561f9f5b5ec/06UMGIM04107.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-06-14",
@@ -1015,7 +1015,7 @@ pop tunes while still pulling in some of the quirky aspects that made
 them the most popular jam band of our era (sorry Panic fans).
 
 With that, I hope you enjoy Farmhouse from Phish!`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Farmhouse_%28Phish_album%29_coverart.jpg/250px-Farmhouse_%28Phish_album%29_coverart.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/94/ab/37/94ab37d8-052c-5bd4-0a6d-f4048c2b422b/mzi.bmwiifok.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-06-21",
@@ -1036,7 +1036,7 @@ statement. And he's right; it is absolutely fantastic.
 I can't say for certain, but I'll be shocked if you all aren't singing
 the chorus of the first song by the 35 second mark. Without further ado,
 I give you "Viva Terlingua" by Jerry Jeff Walker.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/JerryJeffWalkerVivaTerlingua.jpg/250px-JerryJeffWalkerVivaTerlingua.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/a9/e4/ef/a9e4ef04-1503-9c1e-6e0c-948bdb30ae91/00076732091920.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-06-28",
@@ -1073,7 +1073,7 @@ song) is one of the boldest and strangest covers Motown ever released
 I hadn't heard any of the first four songs and loved them as classic
 Motown...the trippy shit is in the middle and closes with those covers.
 Hope you guys enjoy something that's maybe a little different.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/The_Undisputed_Truth_%281971%29.jpeg/250px-The_Undisputed_Truth_%281971%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/2d/22/72/2d2272b8-35fe-b738-fd2d-d26a311b591b/00602567413561.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-07-05",
@@ -1114,7 +1114,7 @@ Anyways, enjoy this random album by this crew of dudes that are still
 getting after it today, nearly 60 years after their founding.
 
 Here is their self-titled album from 1973- Tower of Power.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/3/3a/Toptop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/c1/e7/0f/c1e70f4c-6f7e-7c4c-be9a-cc42f279ed85/dj.ajlmhwne.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-07-12",
@@ -1156,7 +1156,7 @@ compilation titled simply Best.
 
 p.s. the transition from feeling good again to gringo honeymoon always
 puts a smile on my face 😀`,
-    coverUrl: "https://s3.amazonaws.com/busites_www/robertearlkeen2013com/content/discography/best_0.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/64/24/9a642469-b62f-a392-af7d-8e19431ef312/13164.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-07-19",
@@ -1188,7 +1188,7 @@ that there isn't a missed note on it. When I listened to it through that
 lens this spring, I tended to agree. Be careful not to call this yacht
 rock though - if you've seen the documentary then you know how Donald
 Fagen feels about that! Enjoy fellas.`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/4/49/Aja_album_cover.jpg/250px-Aja_album_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c2/3c/54/c23c5414-20d1-7aea-f0f5-187974c58d65/23UMGIM79990.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-07-26",
@@ -1205,7 +1205,7 @@ familiar with the album even if you have never listened to the whole
 thing. It's a little slow but a fantastic listen. So for tonight we are
 going with Willie Nelson's (I hope he is still alive) Red Headed
 Stranger.`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a4/WillieNelsonRedHeadedStrangeralbumcover.jpg/250px-WillieNelsonRedHeadedStrangeralbumcover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/88/d6/67/88d6676e-67ce-f907-d4fe-eae50f805f63/074643348225.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-08-02",
@@ -1229,7 +1229,7 @@ Not sure it's my favorite, but they're most popular and can't not choose
 the one where Brian has the lyrics on his damn wall. Please enjoy the
 killer food tonight and great fellowship with a little background music
 from our friends the avett brothers and "I and love and you"`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c2/IandLoveandYou.jpg/250px-IandLoveandYou.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f4/91/21/f4912174-4c34-8758-7673-60a8ce645785/00602537159048.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-08-09",
@@ -1253,7 +1253,7 @@ genuine, and it includes so many classic songs performed in a way that
 only Jerry could do them. Enjoy The Pizza Tapes, by Jerry Garcia, David
 Grisman and Tony Rice. I hope we can all tip one back for the GOAT while
 we listen.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/ThePizzaTapes.jpg/250px-ThePizzaTapes.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/d5/5b/ead55bd6-1c03-9f78-b585-e3c929b855b0/s05.rfwmvxis.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-08-16",
@@ -1276,7 +1276,7 @@ more) are on several of the songs. Incredible musicianship and really
 well produced. And pretty sure you'll enjoy the guest singer on the last
 song. Hope you guys enjoy Leftover Salmon's 1999 album The Nashville
 Sessions.`,
-    coverUrl: "https://images.squarespace-cdn.com/content/v1/5886810cbe6594eccdf19d5a/1485792637030-58T2X0LPOL12IIYIGVPW/image-asset.jpeg?format=2500w",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ea/9d/52/ea9d52b6-1a61-4745-e2ee-705549e3d650/00720616214225.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-08-23",
@@ -1311,7 +1311,7 @@ Preston (thank you Brian for the introduction).
 Alright, enough suspense...Tonight's pick is Night Beat by Sam Cooke.
 
 Hope you dig it as much as I do.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Night_Beat_cover.jpg/250px-Night_Beat_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/15/1c/a0/151ca03b-1538-197f-bed9-9eafe9f6b253/dj.zeovvcvm.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-08-30",
@@ -1338,7 +1338,7 @@ Lay," but I never knew the back story.
 
 This is a quick one, so I hope you enjoy these next 26 minutes of an
 American legend.`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/9/93/Bob_Dylan_-_Nashville_Skyline.jpg/250px-Bob_Dylan_-_Nashville_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/3f/1a/ad/3f1aad23-1f92-4d66-0ca7-d835c3f79b6b/dj.mtxlnrdd.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-09-06",
@@ -1361,7 +1361,7 @@ create and participate in projects and is a killer mandolin player.
 I'll give Brian two free fast forwards for sweet afton and the hands
 song (also known as his bathtub theme song), but hope we all enjoy the
 self titled debut of Nickel creek...called Nickel creek.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Nickel_Creek-Nickel_Creek.jpg/250px-Nickel_Creek-Nickel_Creek.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/9a/34/00/9a340057-109e-7a0c-aabc-3cba81e47e99/20CRGIM22676.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-09-13",
@@ -1393,7 +1393,7 @@ it. Your wives will probably enjoy this much more than you will.
 
 I apologize..... 28 short minutes.....here is Recently by Dave Matthews
 Band.`,
-    coverUrl: "https://shop.davematthewsband.com/cdn/shop/files/DMDD7.jpg?v=1755633010&width=823",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/67/35/cb/6735cb3f-7b53-893f-dd2c-758b87fd92fa/078636754826.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-09-20",
@@ -1413,7 +1413,7 @@ that started it all, The Natch'l Blues by Taj Mahal.
 
 Special shout out to the song Corinna. I might name me a dog after that
 song one day.`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/9/97/Natchlblues.jpg/250px-Natchlblues.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/b1/b6/d5/mzi.etbijaeg.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-09-27",
@@ -1441,7 +1441,7 @@ optimistic kind of way.
 
 I hope y'all enjoy tonight's album from an artist I'm betting you aren't
 super familiar with. It's Sea Change by Beck. Enjoy!!`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/3/35/Beckseachange.jpg/250px-Beckseachange.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b7/39/f5/b739f599-a321-9ddf-9691-6f888bd46f97/00602527874692.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-10-04",
@@ -1469,7 +1469,7 @@ really begins with "Twilight," a song that I've come to absolutely love
 over the years.
 
 Happy Saturday evening, gents. Enjoy!`,
-    coverUrl: "https://www.woodstockrecords.com/pics/sm-breezehill.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/42/11/ca/4211ca75-6b09-3293-2400-33183bd44bc0/687241000121.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-10-11",
@@ -1497,7 +1497,7 @@ verrry much like Scooter Blues. I could hear Sturgill singing it.
 So enough with the mystery. Hope you enjoy this new album by Mr. Wayon
 Jennings called "Songbird" brought to us thanks to some great work by
 Shooter.`,
-    coverUrl: "https://americana-uk.com/wp-content/uploads/wsg4_ujQ-250x250.jpeg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/11/20/51112027-0f67-f1ee-d52c-237c06fa83ed/199350733765.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-10-18",
@@ -1553,7 +1553,7 @@ After the video, enjoy us hitting the century mark by enjoying some old
 school, classic WSMFP with a little Ain't Life Grand.
 
 Happy 100th!`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/2/24/WidespreadPanicALG.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d1/9a/6f/d19a6f03-5c2d-da70-15e1-15fa2525132c/mzi.rlhewoux.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-10-25",
@@ -1591,7 +1591,7 @@ If you hate it, good news, it's only 37 minutes. If you love it, and at
 the end your like...More Rush! More Rush! Go over and put on the nine
 minute Natural Science from the Permanent Waves album. Probably my
 favorite Rush song. Enjoy!(?) 😀`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1e/Rush_A_Farewell_to_Kings.jpg/250px-Rush_A_Farewell_to_Kings.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d3/04/b0/d304b074-027a-e308-1f4c-2dad0ee6efb1/12UMGIM19105.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-11-01",
@@ -1640,7 +1640,7 @@ I also know there is possibly a cocktail hour live listen for the
 Kirby's/Bagley's and wanted to set a good vibe for that. This one will
 deliver for sure. Please enjoy That Santa Fe Channel by Cordovas.
 Cheers.`,
-    coverUrl: "https://f4.bcbits.com/img/a0629262068_2.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b2/17/62/b2176252-d304-95a9-f0ad-12c8eafcc5b4/Cordovas_Cover-web.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-11-15",
@@ -1667,7 +1667,7 @@ as an influence.
 
 This is the album that taught songwriters how to write songs. Hope you
 enjoy the quick 36 minute listen of Guy Clark Jr.'s "Old #1"`,
-    coverUrl: "https://m.media-amazon.com/images/I/71YYQMq5yCL._SY450_.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/06/a9/26/06a92632-6ffa-41c6-653f-7d9f93b41596/dj.nrgqyvfj.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-11-22",
@@ -1690,7 +1690,7 @@ addiction. Luckily we got this gem out of the boys before he departed
 Earth.
 
 Hope y'all enjoy Alice In Chains Unplugged from 1996.`,
-    coverUrl: "https://thumb.wikimedia.org/wikipedia/en/thumb/4/43/AIC_Unplugged.jpg/250px-AIC_Unplugged.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/ff/eb/d8/mzi.wegmszqt.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-11-29",
@@ -1706,7 +1706,7 @@ earlier this week. Many of his songs have been covered by some of my
 favorite artists, like Widespread Panic and Jerry Garcia. Enjoy some
 "spiritually uplifting, socially conscious, and emotionally soulful
 reggae" from Mr. Jimmy Cliff. RIP!`,
-    coverUrl: "https://cdn-images.dzcdn.net/images/cover/0c49184df4e7cee6b2427ed9afaae5f1/500x500-000000-80-0-0.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ef/e8/b7/efe8b7b1-0c47-0ec3-2e8c-5df05f4dd20c/00600753771266.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-12-06",
@@ -1733,7 +1733,7 @@ know today. The album? Gov't Mule -- Live at Roseland Ballroom.
 
 Extra factoid - this was recorded NYE 1995 when they opened for Blues
 Traveler. I feel bad they had to follow this killer set!!`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/4/4b/Larbcover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/95/9d/e9/959de939-d6b0-037c-25b8-c2752704ff23/5034644543482.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-12-13",
@@ -1752,7 +1752,7 @@ sounding songs on it. I especially like the fact that all songs are
 total. And the opening song is a nice nod to those of you who are
 married to North Cackalacky Girls. I hope you enjoy "Shattered" by
 Reigning Sound as much as I have.`,
-    coverUrl: "https://f4.bcbits.com/img/a0828988077_10.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/b9/34/34b93418-4385-b5ab-aaa1-558e3bec68e5/56653.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-12-20",
@@ -1785,7 +1785,7 @@ So crack something cold, turn it up, and let Back in Black do what it
 does best:
 
 get us loud, locked in, and ready to win. 🐾🔥`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/b/b8/AC-DC_-_Back_in_Black.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/14/58/1e145814-281a-58e0-3ab1-145f5d1af421/886443673441.jpg/1200x1200bb.jpg",
   },
   {
     date: "2025-12-27",
@@ -1813,7 +1813,7 @@ soundtrack to a specific season of life---one you played constantly
 during college because it felt like home. Only at the end do you realize
 this snapshot in time comes from Blue Dogs Live at the Dock Street
 Theater.`,
-    coverUrl: "https://images.zoogletools.com/s:bzglfiles/u/59548/de55d64e6faeb03ce9681e422b5fd4169a22f086/original/1995liveatdockstreet.jpg/!!/b%3AW1sicmVzaXplIixbMTYwMCwxNjAwLHsid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlLCJmaXQiOiJpbnNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m04/d28/h10/s05.qpaktphd.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-01-03",
@@ -1836,7 +1836,7 @@ to and one I love to revisit about twice a year when I'm feeling it.
 
 Ladies and gents, I present the Emma Gibbs Band album Out to the
 Country:`,
-    coverUrl: "https://www.covercentury.com/covers/audio/o/out-to-the-country_emma-gibbs-band_320_1532158.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/d6/ab/0a/mzi.wbtoiaor.tif/1200x1200bb.jpg",
   },
   {
     date: "2026-01-10",
@@ -1845,7 +1845,7 @@ Country:`,
     album: "Ace",
     notes: "RIP",
     writeup: `Nothing else to say. RIP.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/0/09/Bob_Weir_-_Ace.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/da/ad/e8/mzi.npanwgbt.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-01-17",
@@ -1872,7 +1872,7 @@ It was hard to pick one album, but I've decided to go with their
 self-titled one from 1968. The original version only has ten tracks so
 it wraps up with "Means to an End." If you are interested in other
 records, "Low Spark..." or "John Barleycorn..." are great too. Cheers!`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/e/e2/Traffic_%28album%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5a/7f/05/5a7f0511-c115-4654-9deb-711e5308435f/00731454649827.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-01-24",
@@ -1897,7 +1897,7 @@ fact of the night is the horns accompanying have commonly shared the
 stage with Dr. John and Bonnie Raitt...Anyways...Grab a beverage and
 enjoy the soulful relaxing sounds of The California Honeydrops and Call
 it Home Volume 1.`,
-    coverUrl: "https://cahoneydrops.com/chd-love/wp-content/uploads/2022/07/call-it-home.png",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/53/ff/95/53ff9539-dec0-5b23-e9f5-4e798f405ac0/197773581147_cover.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-01-31",
@@ -1917,7 +1917,7 @@ recognizable voices of recent generations.
 
 Enjoy the snow with the sweet sounds of Mr. Ray Charles and a few of his
 friends on Genius Loves Company.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/2/2f/Genius_loves_company.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7f/62/97/7f6297c0-9286-02fd-7930-1e1ca877643f/109416.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-02-07",
@@ -1943,7 +1943,7 @@ day, and quickly collected the rest of their incredible albums. It's
 blues, it's rock, it's punk, it's country - it's the best damn bad of
 all time. It's hard to pick a favorite, but mine is Goats Head Soup, and
 that's my pick of the night. Enjoy!!`,
-    coverUrl: "https://en.wikipedia.org/wiki/File:The_Rolling_Stones_-_Goats_Head_Soup.jpg",
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/d/d8/The_Rolling_Stones_-_Goats_Head_Soup.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
   },
   {
     date: "2026-02-14",
@@ -1976,7 +1976,7 @@ again. Here's hoping. Enough rambling. Sit back and let the music take
 you on a trip.
 
 Tonight's album is OK Computer by Radiohead.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/60/ba/0760ba0f-148c-b18f-d0ff-169ee96f3af5/634904078164.png/1200x1200bb.jpg",
   },
   {
     date: "2026-02-21",
@@ -2001,7 +2001,7 @@ Christine McVie and Stevie Nicks. Classic album cover too.
 
 So listen to all of these songs anew like it is the first time you've
 heard them. Welcome back, Jeremy!`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/13/ba/4d13bac3-d3d5-7581-2c74-034219eadf2b/081227970949.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-02-28",
@@ -2055,7 +2055,7 @@ or trying to hit a Mr. Todd Park Mohr guitar face in your kitchen,
 that's completely normal.
 
 This week's pick is Sister Sweetly by Big Head Todd and the Monsters.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/c/c2/Sister_Sweetly.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/30/cd/82/mzi.czhnyruj.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-03-14",
@@ -2089,7 +2089,7 @@ with Peltor as it's just a bit of noise).
 
 Happy Saturday and I hope you enjoy a bit of Col Bruce Hampton and the
 Aquarium Rescue Unit.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/a/aa/Col_Bruce_Hampton_%26_the_Aquarium_Rescue_Unit.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5d/2f/3e/5d2f3e1a-ae5d-98f7-16d7-f1bc3478cf3d/mzi.rrqyjapy.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-03-21",
@@ -2116,7 +2116,7 @@ sit back and enjoy a quick listen --- just 35 minutes --- to the
 sophomore album from Band of Horses: Cease to Begin.
 
 Bonus for you old school NBA fans, check out the song title for track 4.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/5/53/Ceasetobegin.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/cb/3f/9e/cb3f9e63-248d-eaaf-5806-e951f692b0fa/098787074567.png/1200x1200bb.jpg",
   },
   {
     date: "2026-03-28",
@@ -2143,7 +2143,7 @@ handsome fella. I remember watching them at the Neighborhood Theater one
 time and thinking about how every woman in that room was actively
 thinking about wanting to have sex with him...and I completely
 understood. That lucky bastard. Cheers!`,
-    coverUrl: "https://f4.bcbits.com/img/a2382560972_1x1_700.avif",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/9f/ba/9e/9fba9e8a-0aca-43d9-99e6-268e2be08186/859714620864_cover.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-04-04",
@@ -2167,7 +2167,7 @@ to nail "if we were vampires"
 
 Tonight we're going with Jason Isabell and the 400 unit and "The
 Nashville Sound"`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/c/cd/The_Nashville_Sound_-_Jason_Isbell_and_the_400_Unit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/bc/bd/75bcbd6d-02a8-251c-9548-38c3b9c5672a/886446416328.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-04-11",
@@ -2209,7 +2209,7 @@ mid-March all thanks to you guys.
 I hope you enjoy this hard hitting southern rock album as much as I
 have. Check out the self-titled album by my newest band to listen to:
 Trigger Hippy.`,
-    coverUrl: "https://f4.bcbits.com/img/a1871428812_1x1_700.avif",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/5a/d0/79/5ad0796b-ffc6-6863-f6f1-dc76db065d41/00888072361294.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-04-18",
@@ -2225,7 +2225,7 @@ Albert King (whose version appeared on a previous SAC selection) had his
 version come out the next year. I really love this album. A quick, but
 solid 26 minutes of soul jam. Hope y'all enjoy Straight from the Heart
 by Ann Peebles.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/e/e7/Straight_from_the_Heart_%28Ann_Peebles_album%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/cc/25/0f/cc250faf-a9f4-7525-9925-7a296b334793/886445484793.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-04-25",
@@ -2250,7 +2250,7 @@ So let's hop in the way back machine and go to the dusty outskirts of
 Texas in 1973. This album is where the band solidified its southern rock
 and blues boogie sound. I hope y'all enjoy a true classic from that
 little ol band from Texas, I give you ZZ Topp - Tres Hombres.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/d/dd/ZZ_Top_-_Tres_Hombres.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/19/4d/3c/194d3c17-7a21-5622-0939-16feb62b6b07/0603497921430.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-05-02",
@@ -2275,7 +2275,7 @@ I've quickly become a fan and think you will too.
 To close, the end of MC Taylor's email for the new Hiss record release
 yesterday hit at a perfect time. Great way to summarize this trip I'm on
 and the Saturday Series. Music fuckin' rules.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/b/b9/Album_Cymande_cover.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6c/bb/83/6cbb8378-6b01-4aeb-e5db-32c081231bca/0720841302506_Cover.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-05-09",
@@ -2296,7 +2296,7 @@ progressed his style but this classic still stands strong.
 
 After writing that,screw chat gpt's write up and enjoy Leon Bridges
 "coming home"`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/1/14/Coming_Home_Leon_Bridges.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/37/70/273770eb-92ac-1d00-87e6-e0f5ec0e97ab/886445452204.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-05-16",
@@ -2318,7 +2318,7 @@ dinner from J and the Causeways.
 
 P.S.- If you want to make it a drinking game, chug every time the lead
 singer shouts out "Tipitina's, how you feeling??!!"`,
-    coverUrl: "https://f4.bcbits.com/img/0042105364_102.avif",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/6d/8a/416d8a01-77f4-1362-ec84-9e2fec89dfbf/1963624049079_cover.png/1200x1200bb.jpg",
   },
   {
     date: "2026-05-23",
@@ -2349,7 +2349,7 @@ the Louvin Brothers.
 
 This album has meant a lot to me for a while and has been on my list for
 a while. Hope you guys enjoy Sweetheart of the Rodeo from The Byrds.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/e/ed/TheByrdsSweetheartoftheRodeo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/79/42/10/794210be-d806-fa68-6ea5-d180039534b1/mzi.jqkgrcxk.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-05-30",
@@ -2417,7 +2417,7 @@ musicians he assembled for this was second to none.
 
 I hope you guys enjoy this one as much as I do. It'll be in my rotation
 for years to come.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/2/28/ThanksIllEatItHere-Cover001.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ad/da/2e/adda2e06-ccc5-39a8-6090-87137008c7e0/mzi.oabxypij.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-06-13",
@@ -2478,7 +2478,7 @@ Like a great family vacation, it's warm, nostalgic, fun, and guaranteed
 to spark a few stories along the way.
 
 This week's pick is The Big Chill Soundtrack.`,
-    coverUrl: "https://motownrecords.com/cdn/shop/files/TheBigChillPackshot.png?v=1772567630&width=800",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/9f/e7/f9/9fe7f9f4-ba2f-b369-707f-76899faf1f2c/06UMGIM07593.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-06-27",
@@ -2522,7 +2522,7 @@ Like a great family vacation, it's warm, nostalgic, fun, and guaranteed
 to spark a few stories along the way.
 
 This week's pick is The Big Chill Soundtrack.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/5/5f/Live_on_the_Queen_Mary.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6d/8a/e0/6d8ae091-88b8-f32e-6a7c-c7586ba2a4e3/00602577284953.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-07-04",
@@ -2591,7 +2591,7 @@ Apparently, Lou Reed left the band a few months after this album was
 released. I've always heard he was a complete dick. But a really
 talented one. The version of this I've been listening to has some
 outtakes, but OSN is the final song. Happy listening!`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/7/71/Loadedalbum.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/87/7d/5e/877d5e8d-8aff-717f-576c-f237ee8d7a34/603497884575.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-07-18",
@@ -2626,7 +2626,7 @@ don't belong to one genre or one generation.
 Hope you enjoy tonight's album from Mr. Stevie Wonder and Innervisions.
 
 Fun Fact: Stevie named the first song after Harb.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/3/3b/Steviewonder_innervisions.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/c2/5f/ffc25f04-cb3b-b56e-dd28-8b77ae63e613/00602537070824.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-07-25",
@@ -2651,7 +2651,7 @@ their newest album. I have only listened to two of the songs, so it will
 be a virgin voyage for all of us.
 
 Hopefully we enjoy Breakfield by Breakfield.`,
-    coverUrl: "https://music-row-website-assets.s3.amazonaws.com/wp-content/uploads/2026/05/BREAKFIELD_ALBUM-COVER-RGB-1500x1500.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/18/e5/b018e5b6-dbb7-64f0-dce6-5acb57ca957a/25CRGIM52135.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-08-01",
@@ -2676,7 +2676,7 @@ permanent member. Dave must've enjoyed the vibes during the HWA
 sessions!
 
 And happy bday Jerry!`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/b/b7/Hard_Working_Americans_album_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c4/82/a0/c482a015-6ec5-d8e1-726e-89a090b57dd5/886444328630.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-08-08",
@@ -2708,7 +2708,7 @@ This one has always been one of my favorites. It shaped what rock
 sounded like for years and it still feels fresh every time I put it on.
 So I hope you enjoy tonight's pick, the self titled first album from
 none other than Van Halen.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/0/0d/Van_Halen_album.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7a/ef/88/7aef88ad-25aa-be91-eb78-8917c3f114f7/603497894130.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-08-15",
@@ -2769,7 +2769,7 @@ So, Casey got us thinking about the ’90s.
 Tonight, we’re finally giving the decade its proper country treatment.
 
 Hope yall enjoy Sammy Kershaw — Politics, Religion and Her. (Also a great song on the album)`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/a/af/Politics%2CReligionandHer.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/06/d9/32/06d93285-75da-0a3b-7125-b3e860bfe9d6/00731452889324.rgb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-08-29",
@@ -2786,7 +2786,7 @@ RIP Dolly.  Thanks for living a life that made a positive impact on this world.
 (This is a compilation of their music and runs over 2 hours, so feel free to skip around and enjoy the ones that you prefer.  They are all pretty damn enjoyable.)
 
 (Fun side note: SAC alum, Ry Cooder, is also interviewed in the Linda Ronstadt documentary.  It is worth checking out.)`,
-    coverUrl: "https://www.dollydiscography.com/uploads/4/5/9/1/4591011/complete-trio-fotor_orig.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/8f/87/83/8f87832f-ef4b-df37-a2ba-8ebd5717731e/dj.peajpyvb.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-09-05",
@@ -2797,7 +2797,7 @@ RIP Dolly.  Thanks for living a life that made a positive impact on this world.
     writeup: `Evening gents. For my second SAC pick in a row, we will have Mr Schools featured on bass. But this time he will be joined by the rest of the classic Panic lineup. Tonight we will hear the second album from the side project they did with Vic Chesnutt, released just four months before we lost the great Mikey. This second album is much stronger, in my opinion, than the debut they did several years prior to this one. You’ll recognize the classic Panic sound from the first note of the first song. 
 All songs were written by Vic, and let’s just say some of his lyrics are, um, interesting. In particular, All Kinds has some unique lyrics. You may want to turn that one down if your significant other is nearby.
 Hope y’all enjoy another great Athens, GA band, brute., and their final album Co-Balt.`,
-    coverUrl: "https://wranglerspace.s3-accelerate.amazonaws.com/2002/04/Cobalt.jpg",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music/03/9a/19/mzi.aqbkvydo.jpg/1200x1200bb.jpg",
   },
   {
     date: "2026-09-12",
@@ -2833,6 +2833,6 @@ really knowing. It is soulful, it is funky, it is bold, and it is one
 of the most fascinating pivots in late sixties music.
 
 This week’s album: Isaac Hayes — Hot Buttered Soul.`,
-    coverUrl: "https://upload.wikimedia.org/wikipedia/en/8/86/Isaac_Hayes%2C_Hot_Buttered_Soul_Album_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/08/65/630865dc-ee73-cb3e-c3b3-6e0d27d06789/00888072013339.rgb.jpg/1200x1200bb.jpg",
   }
 ];
