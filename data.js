@@ -1,5 +1,5 @@
 // Saturday Album Club listening history.
-// One object per Saturday, from the start of the series through 2026-09-12.
+// One object per Saturday, from the start of the series through 2026-09-19.
 
 const albumHistory = [
   {
@@ -2834,5 +2834,18 @@ of the most fascinating pivots in late sixties music.
 
 This week’s album: Isaac Hayes — Hot Buttered Soul.`,
     coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/63/08/65/630865dc-ee73-cb3e-c3b3-6e0d27d06789/00888072013339.rgb.jpg/1200x1200bb.jpg",
+  },
+  {
+    date: "2026-09-19",
+    person: "Casey",
+    artist: "John Craigie",
+    album: "Greatest Hits...Just Kidding...Live - No Hits",
+    notes: "",
+    writeup: `Knowing that everyone is scattered this weekend and likely not listening tonight, I have opted for a record that is perfect for the road trip home. This gentleman caught my ear a few years back and was my most listened to artist of 2024. When I began researching him, I quickly understood why as he has been described as “the lovechild of John Prine and Mitch Hedberg with a vagabond troubadour edge.” Yup, that’s right up my alley.
+
+  His studio albums are great, but to fully appreciate John Craigie, his live records are a must because his storytelling is so compelling and usually funny as hell. He’s very self-deprecating, but many current artists revere his songwriting ability.
+
+  This set is slightly over 60 minutes, but I figured it was fine since you all will be captive audiences on your drive. Plus, the baseball story that wraps it all up at the end is so good and worth the extra time. Consider it your Sunday sermon since you didn’t go to church. I give you John Craigie’s “Greatest Hits…Just Kidding…Live-No Hits.”`,
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/83/88/74838875-4455-cd85-f1a9-b63e0e839e05/24565.jpg/1200x1200bb.jpg",
   }
 ];
