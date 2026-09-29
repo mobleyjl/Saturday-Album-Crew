@@ -1,5 +1,5 @@
 // Saturday Album Club listening history.
-// One object per Saturday, from the start of the series through 2026-09-19.
+// One object per Saturday, from the start of the series through 2026-09-26.
 
 const albumHistory = [
   {
@@ -2847,5 +2847,17 @@ This week’s album: Isaac Hayes — Hot Buttered Soul.`,
 
   This set is slightly over 60 minutes, but I figured it was fine since you all will be captive audiences on your drive. Plus, the baseball story that wraps it all up at the end is so good and worth the extra time. Consider it your Sunday sermon since you didn’t go to church. I give you John Craigie’s “Greatest Hits…Just Kidding…Live-No Hits.”`,
     coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/83/88/74838875-4455-cd85-f1a9-b63e0e839e05/24565.jpg/1200x1200bb.jpg",
+  },
+  {
+    date: "2026-09-26",
+    person: "Jeremy",
+    artist: "Van Morrison",
+    album: "Moondance",
+    notes: "",
+    writeup: `We've got ourselves a little situational pick tonight as I needed something I could put on for my father in laws 70th bday hang. Knowing it needed to respect the quality expected in this crew, I wanted something with soul, some groove, some rock, a little jazz, and songs that can work equally well in the background or make you stop and say, “Damn, that’s a good song.” And this one is almost unfair in that regard.
+I already know Casey is going to think I’m trying to sneak a greatest hits album into the mix, but that’s what’s insane about this record is that the first five songs back to back are just that good and that famous.  And somehow it just keeps going. 
+The artist wrote and produced all of the songs with supposedly most of the arrangements just being figured out on the fly in the studio. And the flute solo on the title track? The guy playing it reportedly bought an $80 student flute specifically for the session. 
+This is one of those albums where you realize you’ve known the songs forever, heard them covered 1000 times, without necessarily appreciating all of these hits were on the same album. Hope you guys enjoy Van Morrison’s Moondance.`,
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/c7/e2/9ac7e266-1f0d-997a-fe43-6741bc96eda6/081227963637.jpg/1200x1200bb.jpg",
   }
 ];
