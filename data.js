@@ -1,5 +1,5 @@
 // Saturday Album Club listening history.
-// One object per Saturday, from the start of the series through 2026-09-26.
+// One object per Saturday, from the start of the series through 2026-10-03.
 
 const albumHistory = [
   {
@@ -2859,5 +2859,14 @@ I already know Casey is going to think I’m trying to sneak a greatest hits alb
 The artist wrote and produced all of the songs with supposedly most of the arrangements just being figured out on the fly in the studio. And the flute solo on the title track? The guy playing it reportedly bought an $80 student flute specifically for the session. 
 This is one of those albums where you realize you’ve known the songs forever, heard them covered 1000 times, without necessarily appreciating all of these hits were on the same album. Hope you guys enjoy Van Morrison’s Moondance.`,
     coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/9a/c7/e2/9ac7e266-1f0d-997a-fe43-6741bc96eda6/081227963637.jpg/1200x1200bb.jpg",
+  },
+  {
+    date: "2026-10-03",
+    person: "Brian",
+    artist: "Western Centuries",
+    album: "Songs From The Deluge",
+    notes: "Anna’s roommate and Dad introduction on parents weekend",
+    writeup: `Just heard of this band for the first time this morning while sitting lake side at Sewanee with Anna’s roommate and her father that are music junkies. A song or two listen immediately sounded like something this group of people would enjoy. I got nothing else for you besides that. Hope this album does not suck. Enjoy Songs from the Deluge by Western Centuries.`,
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/69/67/bc6967f6-5395-3294-c249-33088838f5c3/220.jpg/1200x1200bb.jpg",
   }
 ];
