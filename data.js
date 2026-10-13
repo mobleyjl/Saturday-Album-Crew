@@ -1,5 +1,5 @@
 // Saturday Album Club listening history.
-// One object per Saturday, from the start of the series through 2026-10-03.
+// One object per Saturday, from the start of the series through 2026-10-10.
 
 const albumHistory = [
   {
@@ -2868,5 +2868,18 @@ This is one of those albums where you realize you’ve known the songs forever, 
     notes: "Anna’s roommate and Dad introduction on parents weekend",
     writeup: `Just heard of this band for the first time this morning while sitting lake side at Sewanee with Anna’s roommate and her father that are music junkies. A song or two listen immediately sounded like something this group of people would enjoy. I got nothing else for you besides that. Hope this album does not suck. Enjoy Songs from the Deluge by Western Centuries.`,
     coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bc/69/67/bc6967f6-5395-3294-c249-33088838f5c3/220.jpg/1200x1200bb.jpg",
+  },
+  {
+    date: "2026-10-10",
+    person: "Bagley",
+    artist: "Black Pumas",
+    album: "Black Pumas",
+    notes: "",
+    writeup: `Greeting from Texas fellas! Looks like I’m winning the weather award this weekend. Staying at an Airbnb on the Guadalupe river and it’s hot as shit so perfect for swimming.
+
+Figured I had to go with a Texas band today and these boys have been on my list for awhile so now seems like the time. These two guys were introduced to each other by a mutual friend and they proceeded to produce some magic for their debut album. The first time I heard the album I loved it immediately. It’s got it all - funk, soul, rock, maybe more.
+
+Hope you guys enjoy the self-titled 2019 debut album from the Black Pumas.`,
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/98/fa/9a98fa10-588d-2d6c-dd28-07d48455a181/437.jpg/1200x1200bb.jpg",
   }
 ];
