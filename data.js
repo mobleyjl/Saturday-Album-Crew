@@ -1,5 +1,5 @@
 // Saturday Album Club listening history.
-// One object per Saturday, from the start of the series through 2026-10-10.
+// One object per Saturday, from the start of the series through 2026-10-24.
 
 const albumHistory = [
   {
@@ -2881,5 +2881,38 @@ Figured I had to go with a Texas band today and these boys have been on my list 
 
 Hope you guys enjoy the self-titled 2019 debut album from the Black Pumas.`,
     coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/9a/98/fa/9a98fa10-588d-2d6c-dd28-07d48455a181/437.jpg/1200x1200bb.jpg",
+  },
+  {
+    date: "2026-10-17",
+    person: "Sean",
+    artist: "The Beatles",
+    album: "Rubber Soul",
+    notes: "",
+    writeup: `Good evening and happy Saturday! I’m using the scheduled text feature to send this, as I’m probably freezing my rear end off camping on the AT right now.
+
+This album has been at the top of my list since we started the SAC, but I never quite found the right time to choose it. That changed when the 60th anniversary remaster came out a few weeks ago. (Warning, nerd hifi commentary coming up) I’ve heard this album so many times through the original mono recordings, subsequent stereo versions, and a couple of other remasters, and now this release eclipses them all. It somehow sounds fresh and new again. In particular, the weight of the bass and drums really jumped out at me in a way I’d never noticed before. What a rhythm section!
+
+The band absolutely needs no introduction and has already been featured in the SAC, although I think it was one of their final albums last time around. We all have our opinion about which album is the best, and honestly, you can make a case for almost any of them. There really isn’t a bad album in the bunch. But this one is my favorite.
+For me, this is the album that perfectly bridges the divide between the earlier, pop records and the more grown up, experimental, and sometimes psychedelic work that followed. There isn’t a bad song on it. Every one is truly great, and I honestly don’t think there’s a note played on the entire album that isn’t exactly where it should be. I’ve probably listened to this record a hundred times, and it never gets old.
+
+So please enjoy tonight’s album from the 4 lads from Liverpool. I give you The Beatles : Rubber Soul.
+
+Please find the 60th anniversary remaster link below. Enjoy!`,
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/c0/2b/d2c02b49-76e8-a0dc-9311-e9c3644138ed/26UMGIM15219.rgb.jpg/1200x1200bb.jpg",
+  },
+  {
+    date: "2026-10-24",
+    person: "Casey",
+    artist: "Rayland Baxter",
+    album: "True Violet",
+    notes: "",
+    writeup: `As I was narrowing my list of possible selections for this week, I spent some time perusing Spotify on Thursday evening. In doing so, I realized that Rayland Baxter had his first new album in 4 years coming out the next day. I listened and liked it immediately, and it has only gotten better. Lots of good songs; I’ve been singing the chorus of “The Fool” for the past day.
+
+Not sure how familiar you all are with Rayland, but I’m a big fan of his music. Great lyrics with a wide range of sounds that is always evolving but usually lands in a very chill spot. I’ve heard his live shows are amazing.
+
+Interesting guy too. Was a college lax player, and his dad played in Steve Earle’s band and even worked with Bob Dylan a bit. His dad died in 2020 and a lot of this album comes from that loss and the search for new beginnings. I learned a good bit about his creative process in this article/review: https://tinnitist.com/2026/10/22/albums-of-the-week-rayland-baxter-true-violet/.
+
+Hot off the presses, this week’s album is True Violet by Rayland Baxter. Cheers!`,
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/dd/8a/f1dd8a81-3f6c-83cd-0e83-11dcc7e1f106/00880882709150_Cover.jpg/1200x1200bb.jpg",
   }
 ];
