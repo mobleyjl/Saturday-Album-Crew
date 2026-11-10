@@ -1,5 +1,5 @@
 // Saturday Album Club listening history.
-// One object per Saturday, from the start of the series through 2026-10-24.
+// One object per Saturday, from the start of the series through 2026-11-07.
 
 const albumHistory = [
   {
@@ -31,8 +31,8 @@ const albumHistory = [
   },
   {
     date: "2023-12-16",
-    person: null,
-    artist: "",
+    person: "Brian",
+    artist: "Stand By Me",
     album: "Stand By Me",
     notes: "soundtrack",
     writeup: "",
@@ -40,7 +40,7 @@ const albumHistory = [
   },
   {
     date: "2023-12-23",
-    person: null,
+    person: "Sean",
     artist: "Wilco",
     album: "Sky Blue Sky",
     notes: "",
@@ -67,7 +67,7 @@ const albumHistory = [
   },
   {
     date: "2024-01-14",
-    person: null,
+    person: "Sean",
     artist: "Black Sabbath",
     album: "Paranoid",
     notes: "",
@@ -76,7 +76,7 @@ const albumHistory = [
   },
   {
     date: "2024-01-20",
-    person: null,
+    person: "Casey",
     artist: "The Band",
     album: "Stage Fright",
     notes: "",
@@ -85,7 +85,7 @@ const albumHistory = [
   },
   {
     date: "2024-01-27",
-    person: null,
+    person: "Jeremy",
     artist: "Jurassic 5",
     album: "Quality Control",
     notes: "",
@@ -94,7 +94,7 @@ const albumHistory = [
   },
   {
     date: "2024-02-03",
-    person: null,
+    person: "Brian",
     artist: "Tom Petty & the Heartbreakers",
     album: "Into the Great Wide Open",
     notes: "",
@@ -103,7 +103,7 @@ const albumHistory = [
   },
   {
     date: "2024-02-10",
-    person: null,
+    person: "Sean",
     artist: "Delbert McClinton",
     album: "Live from Austin",
     notes: "",
@@ -112,7 +112,7 @@ const albumHistory = [
   },
   {
     date: "2024-02-17",
-    person: null,
+    person: "Casey",
     artist: "Neal Francis",
     album: "Changes",
     notes: "",
@@ -121,7 +121,7 @@ const albumHistory = [
   },
   {
     date: "2024-02-24",
-    person: null,
+    person: "Jeremy",
     artist: "Grady Spencer & The Work",
     album: "Wait",
     notes: "",
@@ -130,7 +130,7 @@ const albumHistory = [
   },
   {
     date: "2024-03-02",
-    person: null,
+    person: "Brian",
     artist: "Uncle Tupelo",
     album: "No Depression",
     notes: "",
@@ -139,7 +139,7 @@ const albumHistory = [
   },
   {
     date: "2024-03-09",
-    person: null,
+    person: "Bagley",
     artist: "The Meters",
     album: "Rejuvenation",
     notes: "",
@@ -148,7 +148,7 @@ const albumHistory = [
   },
   {
     date: "2024-03-16",
-    person: null,
+    person: "Sean",
     artist: "Flaming Lips",
     album: "Soft Bulletin",
     notes: "",
@@ -157,7 +157,7 @@ const albumHistory = [
   },
   {
     date: "2024-03-23",
-    person: null,
+    person: "Casey",
     artist: "The Who",
     album: "Who’s Next",
     notes: "PPP",
@@ -166,7 +166,7 @@ const albumHistory = [
   },
   {
     date: "2024-03-30",
-    person: null,
+    person: "Jeremy",
     artist: "Ricky Skaggs & Bruce Hornsby",
     album: "Ricky Skaggs & Bruce Hornsby",
     notes: "",
@@ -202,7 +202,7 @@ const albumHistory = [
   },
   {
     date: "2024-04-27",
-    person: null,
+    person: "Casey",
     artist: "Sam Cooke",
     album: "Live at Harlem Square",
     notes: "",
@@ -211,7 +211,7 @@ const albumHistory = [
   },
   {
     date: "2024-05-04",
-    person: null,
+    person: "Jeremy",
     artist: "Sturgill Simpson",
     album: "Metamodern Sounds in Country Music",
     notes: "",
@@ -220,7 +220,7 @@ const albumHistory = [
   },
   {
     date: "2024-05-11",
-    person: null,
+    person: "Brian",
     artist: "Sam Bush",
     album: "Glamour and Grits",
     notes: "",
@@ -229,7 +229,7 @@ const albumHistory = [
   },
   {
     date: "2024-05-18",
-    person: null,
+    person: "Bagley",
     artist: "Jeff Buckley",
     album: "Grace",
     notes: "",
@@ -238,7 +238,7 @@ const albumHistory = [
   },
   {
     date: "2024-05-25",
-    person: null,
+    person: "Sean",
     artist: "Widespread Panic",
     album: "Light Fuse, Get Away",
     notes: "",
@@ -247,7 +247,7 @@ const albumHistory = [
   },
   {
     date: "2024-06-01",
-    person: null,
+    person: "Casey",
     artist: "Dan Auerbach",
     album: "Waiting on a Song",
     notes: "",
@@ -256,7 +256,7 @@ const albumHistory = [
   },
   {
     date: "2024-06-08",
-    person: null,
+    person: "Jeremy",
     artist: "The New Mastersounds",
     album: "Shake It",
     notes: "",
@@ -265,7 +265,7 @@ const albumHistory = [
   },
   {
     date: "2024-06-15",
-    person: null,
+    person: "Brian",
     artist: "The Wood Brothers",
     album: "Live at the Barn",
     notes: "",
@@ -274,7 +274,7 @@ const albumHistory = [
   },
   {
     date: "2024-06-22",
-    person: null,
+    person: "Bagley",
     artist: "Bob Marley",
     album: "Natty Dread",
     notes: "",
@@ -283,7 +283,7 @@ const albumHistory = [
   },
   {
     date: "2024-06-29",
-    person: null,
+    person: "Sean",
     artist: "Allison Krauss and Union Station",
     album: "Lonely Runs Both Ways",
     notes: "",
@@ -292,7 +292,7 @@ const albumHistory = [
   },
   {
     date: "2024-07-06",
-    person: null,
+    person: "Casey",
     artist: "Old Crow Medicine Show",
     album: "50 Years of Blonde on Blonde- Live",
     notes: "",
@@ -301,7 +301,7 @@ const albumHistory = [
   },
   {
     date: "2024-07-13",
-    person: null,
+    person: "Jeremy",
     artist: "Billy Strings",
     album: "Billy Strings Live vol. 1",
     notes: "",
@@ -310,7 +310,7 @@ const albumHistory = [
   },
   {
     date: "2024-07-20",
-    person: null,
+    person: "Brian",
     artist: "John Prine",
     album: "John Prine",
     notes: "",
@@ -319,7 +319,7 @@ const albumHistory = [
   },
   {
     date: "2024-07-27",
-    person: null,
+    person: "Bagley",
     artist: "Tyler Childers",
     album: "Live on Red Barn Radio I and II",
     notes: "",
@@ -328,7 +328,7 @@ const albumHistory = [
   },
   {
     date: "2024-08-03",
-    person: null,
+    person: "Sean",
     artist: "Jack White",
     album: "No Name",
     notes: "",
@@ -337,7 +337,7 @@ const albumHistory = [
   },
   {
     date: "2024-08-10",
-    person: null,
+    person: "Casey",
     artist: "Shinyribs",
     album: "Well After Awhile",
     notes: "",
@@ -346,7 +346,7 @@ const albumHistory = [
   },
   {
     date: "2024-08-17",
-    person: null,
+    person: "Jeremy",
     artist: "Silk Sonic",
     album: "An Evening with Silk Sonic",
     notes: "",
@@ -355,7 +355,7 @@ const albumHistory = [
   },
   {
     date: "2024-08-24",
-    person: null,
+    person: "Brian",
     artist: "The Beatles",
     album: "Let It Be",
     notes: "",
@@ -364,7 +364,7 @@ const albumHistory = [
   },
   {
     date: "2024-08-31",
-    person: null,
+    person: "Bagley",
     artist: "The Chicks",
     album: "Home",
     notes: "",
@@ -373,7 +373,7 @@ const albumHistory = [
   },
   {
     date: "2024-09-07",
-    person: null,
+    person: "Sean",
     artist: "Talking Heads",
     album: "Stop Making Sense",
     notes: "",
@@ -382,7 +382,7 @@ const albumHistory = [
   },
   {
     date: "2024-09-14",
-    person: null,
+    person: "Casey",
     artist: "Beastie Boys",
     album: "License to ill",
     notes: "",
@@ -391,7 +391,7 @@ const albumHistory = [
   },
   {
     date: "2024-09-21",
-    person: null,
+    person: "Jeremy",
     artist: "Aretha Franklin",
     album: "This Girls in Love With You",
     notes: "",
@@ -400,7 +400,7 @@ const albumHistory = [
   },
   {
     date: "2024-09-28",
-    person: null,
+    person: "Brian",
     artist: "Crosby, Stills & Nash",
     album: "self-titled",
     notes: "",
@@ -409,7 +409,7 @@ const albumHistory = [
   },
   {
     date: "2024-10-05",
-    person: null,
+    person: "Bagley",
     artist: "My Morning Jacket",
     album: "Z",
     notes: "",
@@ -418,7 +418,7 @@ const albumHistory = [
   },
   {
     date: "2024-10-12",
-    person: null,
+    person: "Sean",
     artist: "Lyle Lovett",
     album: "Pontiac",
     notes: "",
@@ -427,7 +427,7 @@ const albumHistory = [
   },
   {
     date: "2024-10-19",
-    person: null,
+    person: "Casey",
     artist: "Dolly Parton",
     album: "The Grass is Blue",
     notes: "",
@@ -436,7 +436,7 @@ const albumHistory = [
   },
   {
     date: "2024-10-26",
-    person: null,
+    person: "Jeremy",
     artist: "Red Clay Strays",
     album: "Made by These Moments",
     notes: "",
@@ -445,7 +445,7 @@ const albumHistory = [
   },
   {
     date: "2024-11-02",
-    person: null,
+    person: "Brian",
     artist: "Grateful Dead",
     album: "Fallout from the Phil Zone",
     notes: "",
@@ -454,7 +454,7 @@ const albumHistory = [
   },
   {
     date: "2024-11-09",
-    person: null,
+    person: "Bagley",
     artist: "Drive by Truckers",
     album: "The Dirty South",
     notes: "",
@@ -463,7 +463,7 @@ const albumHistory = [
   },
   {
     date: "2024-11-16",
-    person: null,
+    person: "Sean",
     artist: "B.B. King",
     album: "Live at The Regal",
     notes: "",
@@ -472,7 +472,7 @@ const albumHistory = [
   },
   {
     date: "2024-11-23",
-    person: null,
+    person: "Casey",
     artist: "Hiss Golden Messenger",
     album: "Sanctuary Songs",
     notes: "",
@@ -481,7 +481,7 @@ const albumHistory = [
   },
   {
     date: "2024-11-30",
-    person: null,
+    person: "Jeremy",
     artist: "St. Paul and the Broken Bones",
     album: "Half The City",
     notes: "",
@@ -490,7 +490,7 @@ const albumHistory = [
   },
   {
     date: "2024-12-07",
-    person: null,
+    person: "Brian",
     artist: "Pearl Jam",
     album: "Ten",
     notes: "",
@@ -499,7 +499,7 @@ const albumHistory = [
   },
   {
     date: "2024-12-14",
-    person: null,
+    person: "Bagley",
     artist: "Waylon Jennings",
     album: "Honky Tonk Heroes",
     notes: "",
@@ -508,7 +508,7 @@ const albumHistory = [
   },
   {
     date: "2024-12-21",
-    person: null,
+    person: "Sean",
     artist: "Pink Floyd",
     album: "Wish You Were Here",
     notes: "",
@@ -517,7 +517,7 @@ const albumHistory = [
   },
   {
     date: "2024-12-28",
-    person: null,
+    person: "Casey",
     artist: "Allen Toussaint",
     album: "Sweet Touch of Love",
     notes: "",
@@ -526,7 +526,7 @@ const albumHistory = [
   },
   {
     date: "2025-01-04",
-    person: null,
+    person: "Jeremy",
     artist: "Jim Croce",
     album: "You Don’t Mess Around With Jim",
     notes: "",
@@ -535,7 +535,7 @@ const albumHistory = [
   },
   {
     date: "2025-01-11",
-    person: null,
+    person: "Brian",
     artist: "Billy Preston",
     album: "The Best",
     notes: "",
@@ -544,7 +544,7 @@ const albumHistory = [
   },
   {
     date: "2025-01-18",
-    person: null,
+    person: "Bagley",
     artist: "Johnny Jenkins",
     album: "Ton-Ton Macoute!",
     notes: "",
@@ -553,7 +553,7 @@ const albumHistory = [
   },
   {
     date: "2025-01-25",
-    person: null,
+    person: "Sean",
     artist: "Ry Cooder",
     album: "Paradise and Lunch",
     notes: "",
@@ -562,7 +562,7 @@ const albumHistory = [
   },
   {
     date: "2025-02-01",
-    person: null,
+    person: "Casey",
     artist: "The Rolling Stones",
     album: "Exile on Main Street",
     notes: "",
@@ -571,7 +571,7 @@ const albumHistory = [
   },
   {
     date: "2025-02-08",
-    person: null,
+    person: "Jeremy",
     artist: "John Mayer",
     album: "Continuum",
     notes: "",
@@ -580,7 +580,7 @@ const albumHistory = [
   },
   {
     date: "2025-02-15",
-    person: null,
+    person: "Brian",
     artist: "R.E.M",
     album: "Document",
     notes: "",
@@ -589,7 +589,7 @@ const albumHistory = [
   },
   {
     date: "2025-02-22",
-    person: null,
+    person: "Bagley",
     artist: "Pretenders",
     album: "Learning to Crawl",
     notes: "",
@@ -2914,5 +2914,33 @@ Interesting guy too. Was a college lax player, and his dad played in Steve Earle
 
 Hot off the presses, this week’s album is True Violet by Rayland Baxter. Cheers!`,
     coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/dd/8a/f1dd8a81-3f6c-83cd-0e83-11dcc7e1f106/00880882709150_Cover.jpg/1200x1200bb.jpg",
+  },
+  {
+    date: "2026-10-31",
+    person: "Jeremy",
+    artist: "Hozier",
+    album: "Live in America",
+    notes: "",
+    writeup: `This week we’re taking a little trip across the pond, but don’t let the Irish accent fool you. There’s plenty of American blues, soul, gospel and a little rock and roll mixed in here.
+
+Tonight’s artist grew up listening to his dad’s Chicago blues collection, including Muddy Waters, and spent several years singing in an Irish choir. That combination might explain the soulful sound and those incredible backing vocals.
+
+We’ve got a song that borrows its name from legendary soul singer Jackie Wilson, another tells the story from the serpent’s perspective in the Garden of Eden, and there’s a gospel-inspired love song that apparently carries on even after death.
+
+I went with a short live EP rather than the full debut album. The debut is great but a little long and more darkness that I wanted today. This one is only six songs, about 25 minutes, and a nice sampling of the different styles we tend to enjoy around here. Plus, the live arrangements give these songs a little extra something.
+
+So tonight we’re going with Hozier – Live in America.`,
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/f3/70/eb/f370eba4-a1e5-c3f8-b3fb-53be326914bc/886445342338.jpg/1200x1200bb.jpg",
+  },
+  {
+    date: "2026-11-07",
+    person: "Brian",
+    artist: "Cat Stevens",
+    album: "Greatest Hits",
+    notes: "",
+    writeup: `Evening, gents.
+
+Welp, I am doing it. I am going with a Greatest Hits ALBUM that has been on my list since this club was created nearly three years ago. It has been one of my favorite albums ever since I was a child and we listened to it on the cassette deck in our dad’s Cadillac. Every song on here is one you will likely be able to sing along to. Enjoy these hits from the artist formerly known as Cat Stevens.`,
+    coverUrl: "https://upload.wikimedia.org/wikipedia/en/3/30/CatStevensGreatestHits.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
   }
 ];
