@@ -246,6 +246,7 @@ function historyTitle(entry) {
 
 const NO_PICKER_FILTER = "__none__";
 let selectedPickerFilter = "all";
+let historySearchQuery = "";
 
 function pickerName(entry) {
   return typeof entry.person === "string" ? entry.person.trim() : "";
@@ -302,6 +303,16 @@ function matchesPickerFilter(entry) {
   return name === selectedPickerFilter;
 }
 
+function matchesHistorySearch(entry) {
+  const words = historySearchQuery.trim().toLowerCase().split(/\s+/).filter(Boolean);
+  if (!words.length) {
+    return true;
+  }
+
+  const haystack = `${entry.artist || ""} ${entry.album || ""}`.toLowerCase();
+  return words.every((word) => haystack.includes(word));
+}
+
 function renderHistoryFilters(entries) {
   const filtersEl = document.getElementById("history-filters");
   if (!filtersEl) {
@@ -334,15 +345,18 @@ function renderHistory() {
   }
 
   const entries = getHistoryEntries();
-  const visibleEntries = entries.filter(matchesPickerFilter);
+  const searchActive = historySearchQuery.trim().length > 0;
+  const visibleEntries = entries.filter(
+    (entry) => matchesPickerFilter(entry) && matchesHistorySearch(entry)
+  );
   renderHistoryFilters(entries);
 
   if (historyCountEl) {
     const noun = visibleEntries.length === 1 ? "album" : "albums";
-    historyCountEl.textContent =
-      selectedPickerFilter === "all"
-        ? `${visibleEntries.length} ${noun}`
-        : `${visibleEntries.length} ${noun} shown`;
+    const narrowed = searchActive || selectedPickerFilter !== "all";
+    historyCountEl.textContent = narrowed
+      ? `${visibleEntries.length} ${noun} shown`
+      : `${visibleEntries.length} ${noun}`;
   }
 
   historyListEl.innerHTML = "";
@@ -350,7 +364,9 @@ function renderHistory() {
   if (!visibleEntries.length) {
     const empty = document.createElement("p");
     empty.className = "history-empty";
-    empty.textContent = "No albums match this picker.";
+    empty.textContent = searchActive
+      ? "No albums match this search."
+      : "No albums match this picker.";
     historyListEl.append(empty);
     return;
   }
@@ -432,6 +448,14 @@ function renderHistory() {
     }
 
     historyListEl.append(item);
+  });
+}
+
+const historySearchEl = document.getElementById("history-search");
+if (historySearchEl) {
+  historySearchEl.addEventListener("input", () => {
+    historySearchQuery = historySearchEl.value;
+    renderHistory();
   });
 }
 

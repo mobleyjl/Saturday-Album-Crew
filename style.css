@@ -196,6 +196,33 @@ h1 {
   font-weight: 700;
 }
 
+.history-search {
+  display: block;
+  width: 100%;
+  margin: 0 0 10px;
+  box-sizing: border-box;
+  border: 1px solid var(--line);
+  background: var(--bg);
+  color: var(--ink);
+  color-scheme: dark;
+  border-radius: 999px;
+  padding: 8px 14px;
+  font: inherit;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.history-search::placeholder {
+  color: var(--muted);
+  font-weight: 400;
+}
+
+.history-search:focus {
+  outline: none;
+  border-color: rgba(232, 184, 109, 0.55);
+}
+
 .history-filters {
   display: flex;
   flex-wrap: wrap;
