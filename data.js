@@ -1,10 +1,10 @@
 // Saturday Album Club listening history.
-// One object per Saturday, from the start of the series through 2026-11-07.
+// One object per Saturday, from the start of the series through 2026-11-14.
 
 const albumHistory = [
   {
     date: "2023-11-25",
-    person: null,
+    person: "Casey",
     artist: "Paul Pena",
     album: "self titled",
     notes: "",
@@ -13,7 +13,7 @@ const albumHistory = [
   },
   {
     date: "2023-12-02",
-    person: null,
+    person: "Sean",
     artist: "Stevie Ray Vaughn and Double Trouble",
     album: "Texas Flood",
     notes: "",
@@ -22,7 +22,7 @@ const albumHistory = [
   },
   {
     date: "2023-12-09",
-    person: null,
+    person: "Casey",
     artist: "Paul Simon",
     album: "Graceland",
     notes: "",
@@ -175,7 +175,7 @@ const albumHistory = [
   },
   {
     date: "2024-04-06",
-    person: null,
+    person: "Brian",
     artist: "War",
     album: "All Day Music",
     notes: "",
@@ -184,7 +184,7 @@ const albumHistory = [
   },
   {
     date: "2024-04-13",
-    person: null,
+    person: "Bagley",
     artist: "The Marshall Tucker Band",
     album: "The Marshall Tucker Band",
     notes: "",
@@ -193,7 +193,7 @@ const albumHistory = [
   },
   {
     date: "2024-04-20",
-    person: null,
+    person: "Sean",
     artist: "ABB",
     album: "Shades of Two Worlds",
     notes: "",
@@ -2942,5 +2942,20 @@ So tonight we’re going with Hozier – Live in America.`,
 
 Welp, I am doing it. I am going with a Greatest Hits ALBUM that has been on my list since this club was created nearly three years ago. It has been one of my favorite albums ever since I was a child and we listened to it on the cassette deck in our dad’s Cadillac. Every song on here is one you will likely be able to sing along to. Enjoy these hits from the artist formerly known as Cat Stevens.`,
     coverUrl: "https://upload.wikimedia.org/wikipedia/en/3/30/CatStevensGreatestHits.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+  },
+  {
+    date: "2026-11-14",
+    person: "Bagley",
+    artist: "Whiskeytown",
+    album: "Strangers Almanac",
+    notes: "",
+    writeup: `Evening gents,
+
+Long before Ryan Adams was ranting and raving about Jason Isbell and Gavin Newsome, he was a high school dropout living in Raleigh, having recently relocated from his hometown of Jacksonville. After forming a punk band, he turned his eyes to the burgeoning alt country scene that Uncle Tupelo had reinvigorated. He formed tonight’s band, with Gram Parsons as the inspiration for the sound, as he has said in later interviews. They went on to produce three albums, with tonight’s being the second one and is considered to be their landmark album. It is now considered by many critics to be one of the best alt country albums ever. Side note - it was released about four weeks before I arrived for my freshman year at State. Man, I wished I’d known about them then!
+
+Fun fact: my brother waited on the band one night at the restaurant he worked at. They had already become somewhat famous locally so he always like to brag about that. He burned me this album in the late 90s when I was at State and I liked it right away. Unfortunately the band was disbanding right around then. Ryan is said to be quite the asshole, but hey, he’s kind of brilliant too.
+
+Hope you fellas enjoy Strangers Almanac, the 1997 from Whiskeytown.`,
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bc/14/db/bc14dbd6-dff6-13ca-5914-9ced15716655/00607703000520.rgb.jpg/1200x1200bb.jpg",
   }
 ];
