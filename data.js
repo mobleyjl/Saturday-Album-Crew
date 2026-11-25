@@ -1,5 +1,5 @@
 // Saturday Album Club listening history.
-// One object per Saturday, from the start of the series through 2026-11-14.
+// One object per Saturday, from the start of the series through 2026-11-21.
 
 const albumHistory = [
   {
@@ -2957,5 +2957,22 @@ Fun fact: my brother waited on the band one night at the restaurant he worked at
 
 Hope you fellas enjoy Strangers Almanac, the 1997 from Whiskeytown.`,
     coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/bc/14/db/bc14dbd6-dff6-13ca-5914-9ced15716655/00607703000520.rgb.jpg/1200x1200bb.jpg",
+  },
+  {
+    date: "2026-11-21",
+    person: "Sean",
+    artist: "Tom Petty",
+    album: "Highway Companion",
+    notes: "",
+    writeup: `Happy Saturday fellas. I think we have a good one lined up for the beautiful fall day.
+
+This artist has already made an appearance but he’s so good this pick probably won’t be the last. I’ve had this on my radar for quite a while but what pushed it to the top is I recently read the autobiography of his long time guitarist. Talk about a guy who has led a Forrest Gump like life in music! He somehow seemed to be there for everything and crossed paths with just about everybody.
+
+What is interesting is both picks are “solo” albums from this artist but the majority of his famous band play in the albums.
+
+I’ve always loved this album because of its laid back sound and chill vibe. Nothing complicated, just good tunes from an all time great songwriter. Just put it on and let it play. And the title really fits the mood. This is late night road trip music.
+
+So my pick this week is Tom Petty : Highway Companion.`,
+    coverUrl: "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f9/b0/a9/f9b0a923-32a1-c5fc-88e3-4803c13d8611/093624937340.jpg/1200x1200bb.jpg",
   }
 ];
